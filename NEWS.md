@@ -1,3 +1,7 @@
+# barriers-data v0.1.3.9000
+
+* Update `README.md` with post-release Zenodo details
+
 # barriers-data v0.1.2
 
 * Resolve invalid license on Zenodo upload
