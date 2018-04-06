@@ -1,0 +1,44 @@
+{
+    "creators": [
+        {
+            "affiliation": "Department of Sociology and Anthropology, Saint Louis University",
+            "name": "Prener, Christopher",
+            "orcid": "0000-0002-4310-9888"
+        },
+        {
+            "affiliation": "Department of Sociology and Anthropology, Saint Louis University",
+            "name": "Jennings, Joel"
+        },
+        {
+            "affiliation": "Department of Sociology and Anthropology, Saint Louis University",
+            "name": "Block, Abbey"
+        },
+        {
+            "affiliation": "Department of Sociology and Anthropology, Saint Louis University",
+            "name": "Curran, Abby"
+        },
+        {
+            "affiliation": "Department of Sociology and Anthropology, Saint Louis University",
+            "name": "Meyer, Jeffrey"
+        },
+        {
+            "affiliation": "Department of Sociology and Anthropology, Saint Louis University",
+            "name": "Miller, Kyle"
+        },
+        {
+            "affiliation": "Department of Sociology and Anthropology, Saint Louis University",
+            "name": "Smith, Andrew"
+        }
+    ],
+    "access_right": "open",
+    "upload_type": "data",
+    "license": "ODC-By",
+    "keywords": [
+      "missouri",
+      "st. louis",
+      "street closures",
+      "barriers",
+      "urban planning"
+    ]
+
+}

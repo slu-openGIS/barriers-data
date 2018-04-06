@@ -11,7 +11,7 @@ This repository contains data releases from the [*Streets Not Thru* Project](htt
 ### Support and Feedback
 If you have found a typo, omission, or have a suggestion, please check the [contribution guidelines](.github/CONTRIBUTING.md) guidelines before opening an issue. Please note that contributions to this project are governed by a [Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md) and, for Saint Louis University community members, our various University policies.
 
-If you are interested in using our data, please note that it is released without warranty under a permissive [license](LICENSE) that does, however, require attribution. Please also see our policy on [support](.github/SUPPORT.md) for additional details.
+If you are interested in using our data, please note that it is released without warranty under a permissive [license](LICENSE) that does, however, require attribution. Citation information including a digital object identifier for the data, can be found via [Zenodo](). Please also see our policy on [support](.github/SUPPORT.md) for additional details.
 
 ## About the *Streets Not Thru* Project
 ### Project Description
