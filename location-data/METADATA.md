@@ -12,7 +12,8 @@
   * **Constraints Text -** see `LICENSE`
   * **Spatial Representation Type -** Vector - Point
   * **Coordinate System -**
-    * `.geoJSON` - NAD 1983
+    * `.csv` - NAD 1983
+    * `.geoJSON` - WGS 1984
     * `.shp` - NAD 1983
   * **Language -** English
   * **Topic Category -** Street Closures
