@@ -1,3 +1,7 @@
+# barriers-data v0.1.2
+
+* Resolve invalid license on Zenodo upload
+
 # barriers-data v0.1.1
 
 * Resolve invalid type on Zenodo upload
