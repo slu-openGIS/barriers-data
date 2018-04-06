@@ -1,7 +1,6 @@
 # barriers-data
-## Data from the [*Streets Not Thru* Project](https://chris-prener.github.io/barriers)
 
-[![](https://img.shields.io/badge/extent-st.%20louis$city-red.svg)](https://github.com/chris-prener/barriers-data/)
+[![](https://img.shields.io/badge/extent-st.%20louis%20city-red.svg)](https://github.com/chris-prener/barriers-data/)
 [![](https://img.shields.io/github/release/chris-prener/barriers-data.svg?label=version)](https://github.com/chris-prener/barriers-data/releases)
 [![](https://img.shields.io/github/last-commit/chris-prener/barriers-data.svg)](https://github.com/chris-prener/barriers-data/commits/master)
 [![](https://img.shields.io/github/repo-size/chris-prener/barriers-data.svg)](https://github.com/chris-prener/barriers-data/)
