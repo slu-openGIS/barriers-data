@@ -4,6 +4,7 @@
 [![](https://img.shields.io/github/release/chris-prener/barriers-data.svg?label=version)](https://github.com/chris-prener/barriers-data/releases)
 [![](https://img.shields.io/github/last-commit/chris-prener/barriers-data.svg)](https://github.com/chris-prener/barriers-data/commits/master)
 [![](https://img.shields.io/github/repo-size/chris-prener/barriers-data.svg)](https://github.com/chris-prener/barriers-data/)
+[![DOI](https://zenodo.org/badge/128420765.svg)](https://zenodo.org/badge/latestdoi/128420765)
 
 ### Overview
 This repository contains data releases from the [*Streets Not Thru* Project](https://chris-prener.github.io/barriers). It currently contains point locations for all known current and historic street closures in `.csv`, `.shp`, and `.geoJSON` formats. You can preview these data both [here](https://github.com/chris-prener/barriers-data/blob/master/location-data/geoJSON/STL_BARRIERS_All.geojson) and on [our website](https://chris-prener.github.io/barriers/barriers/).
@@ -11,7 +12,7 @@ This repository contains data releases from the [*Streets Not Thru* Project](htt
 ### Support and Feedback
 If you have found a typo, omission, or have a suggestion, please check the [contribution guidelines](.github/CONTRIBUTING.md) guidelines before opening an issue. Please note that contributions to this project are governed by a [Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md) and, for Saint Louis University community members, our various University policies.
 
-If you are interested in using our data, please note that it is released without warranty under a permissive [license](LICENSE) that does, however, require attribution. Citation information including a digital object identifier for the data, can be found via [Zenodo](). Please also see our policy on [support](.github/SUPPORT.md) for additional details.
+If you are interested in using our data, please note that it is released without warranty under a permissive [license](LICENSE) that does, however, require attribution. Citation information including a digital object identifier for the data, can be found via [Zenodo](https://zenodo.org/record/1214213). Please also see our policy on [support](.github/SUPPORT.md) for additional details.
 
 ## About the *Streets Not Thru* Project
 ### Project Description
