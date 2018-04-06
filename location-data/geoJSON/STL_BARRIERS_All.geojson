@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "BarrierID": 1, "Status": "closed", "LastUpdate": "04\/06\/18", "Type": "complete", "BarrierCk": "07\/21\/17", "CheckType": "in-person", "BarrierCk2": null, "CheckType2": null, "Descrip": "4300-block of Darby St at Damon Ave" }, "geometry": { "type": "Point", "coordinates": [ -90.27091074256596, 38.693595459533014 ] } },
 { "type": "Feature", "properties": { "BarrierID": 2, "Status": "open", "LastUpdate": "04\/06\/18", "Type": null, "BarrierCk": "08\/11", "CheckType": "google maps", "BarrierCk2": null, "CheckType2": null, "Descrip": null }, "geometry": { "type": "Point", "coordinates": [ -90.277032999093862, 38.681393999889671 ] } },
