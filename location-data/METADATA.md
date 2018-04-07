@@ -3,8 +3,8 @@
 ### Metadata
   * **Title -** St. Louis Barrier Locations, April 2017
   * **Date of Original Publication -** 06 Apr 2018
-  * **Date of Last Update -** 06 Apr 2018
-  * **Edition -** v0.1.0
+  * **Date of Last Update -** 07 Apr 2018
+  * **Edition -** v0.1.1
   * **Abstract -** Point locations for all known current and historic street closures in `.csv`, `.shp`, and `.geoJSON` formats.
   * **Maintenance Frequency -** Frequent
   * **Keywords -** Missouri, St. Louis, Street Closures, Barriers, Urban Planning
@@ -18,7 +18,7 @@
   * **Language -** English
   * **Topic Category -** Street Closures
   * **Source:** Created by the *Streets Not Thru* [project team](https://chris-prener.github.io/barriers/team/)
-  * **Modifications:** *none*
+  * **Modifications:** see `location-data/NEWS.md`
   * **Point of Contact -** Christopher Prener, Ph.D. ([chris.prener@slu.edu](mailto:chris.prener@slu.edu))
   * **Author/Owner -** Christopher Prener, Ph.D. ([chris.prener@slu.edu](mailto:chris.prener@slu.edu))
   * **Link -** [https://github.com/chris-prener/barriers-data](https://github.com/chris-prener/barriers-data)
