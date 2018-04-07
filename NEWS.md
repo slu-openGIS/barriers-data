@@ -1,6 +1,7 @@
-# barriers-data v0.1.3.9000
+# barriers-data v0.1.3
 
 * Update `README.md` with post-release Zenodo details
+* Update barriers location data (see `location-data/NEWS.md`)
 
 # barriers-data v0.1.2
 
