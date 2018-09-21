@@ -1,3 +1,9 @@
+# location-data v0.2.0
+
+* Barrier 234 - updated to `closed` and re-added description data
+* Barrier 365 - added as a new `closed` barrier
+* Barrier 366 - added as a new `closed` barrier
+
 # location-data v0.1.1
 
 * Barrier 234 - removed `Descrip` data since it is an open barrier
