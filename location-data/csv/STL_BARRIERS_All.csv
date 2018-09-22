@@ -1,333 +1,335 @@
 BarrierID,Status,LastUpdate,Type,BarrierCk,CheckType,BarrierCk2,CheckType2,Descrip,long,lat
-1,closed,04/06/18,complete,07/21/17,in-person,NA,NA,4300-block of Darby St at Damon Ave,-90.270910742566,38.693595459533
+1,closed,09/21/18,complete,07/21/17,in-person,NA,NA,4300-block of Darby St at Damon Ave,-90.270910742566,38.693595459533
 2,open,04/06/18,NA,08/11,google maps,NA,NA,NA,-90.2770329990939,38.6813939998897
-3,closed,04/06/18,complete,07/31/17,in-person,NA,NA,"4900-block of Palm St, mid-block",-90.2517780129263,38.6752719357306
-4,closed,04/06/18,complete,07/21/17,in-person,NA,NA,"8700-block of Annetta, mid-block",-90.2377616412096,38.7173719242904
-6,closed,04/06/18,complete,10/12,google maps,NA,NA,600-block of Coal Bank Rd at the City boundary,-90.183963448368,38.7723917568531
-7,closed,04/06/18,complete,10/11,google maps,NA,NA,3200-block of Hall St at Buchanan St,-90.1899029143086,38.6597009774354
-9,closed,04/06/18,partial,09/12,google maps,NA,NA,10100-block of Lookaway Dr at Shepley Blvd,-90.1931200001016,38.7537210125624
+3,closed,09/21/18,complete,07/31/17,in-person,NA,NA,"4900-block of Palm St, mid-block",-90.2517780129263,38.6752719357306
+4,closed,09/21/18,complete,07/21/17,in-person,NA,NA,"8700-block of Annetta, mid-block",-90.2377616412096,38.7173719242904
+6,closed,09/21/18,complete,10/12,google maps,NA,NA,600-block of Coal Bank Rd at the City boundary,-90.183963448368,38.7723917568531
+7,closed,09/21/18,complete,10/11,google maps,NA,NA,3200-block of Hall St at Buchanan St,-90.1899029143086,38.6597009774354
+9,closed,09/21/18,partial,09/12,google maps,NA,NA,10100-block of Lookaway Dr at Shepley Blvd,-90.1931200001016,38.7537210125624
 10,open,04/06/18,NA,07/16,google maps,NA,NA,NA,-90.2039417273415,38.6651890912439
-11,closed,04/06/18,complete,06/29/17,in-person,NA,NA,1900-block of Penrose St at North 19th St,-90.2046078790005,38.6659870310948
+11,closed,09/21/18,complete,06/29/17,in-person,NA,NA,1900-block of Penrose St at North 19th St,-90.2046078790005,38.6659870310948
 12,open,04/06/18,NA,08/17,google maps,NA,NA,NA,-90.2200721886327,38.6748724863082
-13,closed,04/06/18,complete,06/29/17,in-person,NA,NA,2000-block of Agnes Ave at North 21st St,-90.2025674998366,38.6573922369632
-14,closed,04/06/18,complete,06/30/17,in-person,NA,NA,3800-block of Ashland Ave at Vandeventer Blvd,-90.2240622219058,38.6615752109159
-16,closed,04/06/18,complete,07/17,google maps,NA,NA,3500-block of Bailey Ave at North Grand Blvd,-90.2150192317594,38.6633295248788
-15,closed,04/06/18,complete,07/22/17,in-person,NA,NA,2900-block of Bailey Ave at Glasgow Ave,-90.2117095972736,38.6618843446192
-17,closed,04/06/18,complete,07/22/17,in-person,NA,NA,2900-block of Barrett St at Glasgow Ave,-90.2122422141816,38.6611435249234
-18,closed,04/06/18,complete,06/29/17,in-person,NA,NA,1100-block of Bremen Ave at North 11th St,-90.1990714082605,38.6638496986844
-19,closed,04/06/18,complete,06/29/17,in-person,NA,NA,1100-block of Bremen Ave at North 14th St,-90.1999134024326,38.6635726524757
-20,closed,04/06/18,complete,06/29/17,in-person,NA,NA,1900-block of Bremen Ave at North 20th St,-90.2037423920187,38.6623258048442
-21,closed,04/06/18,complete,06/29/17,in-person,NA,NA,1500-block of Bremen Ave at Blair Ave,-90.2014571567456,38.6630495888181
+13,closed,09/21/18,complete,06/29/17,in-person,NA,NA,2000-block of Agnes Ave at North 21st St,-90.2025674998366,38.6573922369632
+14,closed,09/21/18,complete,06/30/17,in-person,NA,NA,3800-block of Ashland Ave at Vandeventer Blvd,-90.2240622219058,38.6615752109159
+16,closed,09/21/18,complete,07/17,google maps,NA,NA,3500-block of Bailey Ave at North Grand Blvd,-90.2150192317594,38.6633295248788
+15,closed,09/21/18,complete,07/22/17,in-person,NA,NA,2900-block of Bailey Ave at Glasgow Ave,-90.2117095972736,38.6618843446192
+17,closed,09/21/18,complete,07/22/17,in-person,NA,NA,2900-block of Barrett St at Glasgow Ave,-90.2122422141816,38.6611435249234
+18,closed,09/21/18,complete,06/29/17,in-person,NA,NA,1100-block of Bremen Ave at North 11th St,-90.1990714082605,38.6638496986844
+19,closed,09/21/18,complete,06/29/17,in-person,NA,NA,1100-block of Bremen Ave at North 14th St,-90.1999134024326,38.6635726524757
+20,closed,09/21/18,complete,06/29/17,in-person,NA,NA,1900-block of Bremen Ave at North 20th St,-90.2037423920187,38.6623258048442
+21,closed,09/21/18,complete,06/29/17,in-person,NA,NA,1500-block of Bremen Ave at Blair Ave,-90.2014571567456,38.6630495888181
 22,open,04/06/18,NA,07/17,google maps,NA,NA,NA,-90.2041244976118,38.6576069495147
-23,closed,04/06/18,complete,06/30/17,in-person,NA,NA,3600-block of Dodier St at North Spring Ave,-90.2216416179255,38.6574442195497
+23,closed,09/21/18,complete,06/30/17,in-person,NA,NA,3600-block of Dodier St at North Spring Ave,-90.2216416179255,38.6574442195497
 24,open,04/06/18,NA,07/16,google maps,NA,NA,NA,-90.2028189096549,38.6684248089921
-25,closed,04/06/18,complete,07/22/17,in-person,NA,NA,1500-block of Gano Ave at North 20th St,-90.2103346058493,38.6726659067001
+25,closed,09/21/18,complete,07/22/17,in-person,NA,NA,1500-block of Gano Ave at North 20th St,-90.2103346058493,38.6726659067001
 26,open,04/06/18,NA,08/14,google maps,NA,NA,NA,-90.2084935854247,38.6736502017781
-27,closed,04/06/18,complete,06/30/17,in-person,NA,NA,3800-block of Greer Ave at Vandeventer Blvd,-90.2252559467949,38.6599174834434
-28,closed,04/06/18,complete,07/22/17,in-person,NA,NA,"3500-block of Harper St, mid-block",-90.215628212231593,38.6616563391245
-30,closed,04/06/18,complete,06/29/17,in-person,NA,NA,2300-block of Mallinckrodt St at North 25th St,-90.2078334569706,38.6575561558938
-32,closed,04/06/18,complete,06/29/17,in-person,NA,NA,4229-block of North 19th St at Farragut St,-90.2049751184352,38.6668318090249
-34,closed,04/06/18,complete,07/22/17,in-person,NA,NA,3500-block of Palm St at North Grand Blvd,-90.2172439414145,38.6600843741676
+27,closed,09/21/18,complete,06/30/17,in-person,NA,NA,3800-block of Greer Ave at Vandeventer Blvd,-90.2252559467949,38.6599174834434
+28,closed,09/21/18,complete,07/22/17,in-person,NA,NA,"3500-block of Harper St, mid-block",-90.215628212231593,38.6616563391245
+30,closed,09/21/18,complete,06/29/17,in-person,NA,NA,2300-block of Mallinckrodt St at North 25th St,-90.2078334569706,38.6575561558938
+32,closed,09/21/18,complete,06/29/17,in-person,NA,NA,4229-block of North 19th St at Farragut St,-90.2049751184352,38.6668318090249
+34,closed,09/21/18,complete,07/22/17,in-person,NA,NA,3500-block of Palm St at North Grand Blvd,-90.2172439414145,38.6600843741676
 35,open,04/06/18,NA,05/17,google maps,NA,NA,NA,-90.2109185019426,38.6657872376031
-36,closed,04/06/18,complete,06/29/17,in-person,NA,NA,4200-block of Randall Pl at East Penrose StL,-90.2019765613552,38.6669298027673
-37,closed,04/06/18,complete,06/29/17,in-person,NA,NA,4200-block of 21st St at Penrose St,-90.2067855109837,38.6653529687421
-38,closed,04/06/18,complete,09/14,google maps,NA,NA,4000-block of North 22nd St at Newhouse Ave,-90.2079082059752,38.6625225205734
-39,closed,04/06/18,complete,06/29/17,in-person,NA,NA,3400-block of North 22nd St at Palm St,-90.2050227497437,38.6566920650801
+36,closed,09/21/18,complete,06/29/17,in-person,NA,NA,4200-block of Randall Pl at East Penrose StL,-90.2019765613552,38.6669298027673
+37,closed,09/21/18,complete,06/29/17,in-person,NA,NA,4200-block of 21st St at Penrose St,-90.2067855109837,38.6653529687421
+38,closed,09/21/18,complete,09/14,google maps,NA,NA,4000-block of North 22nd St at Newhouse Ave,-90.2079082059752,38.6625225205734
+39,closed,09/21/18,complete,06/29/17,in-person,NA,NA,3400-block of North 22nd St at Palm St,-90.2050227497437,38.6566920650801
 40,open,04/06/18,NA,09/14,google maps,NA,NA,NA,-90.2068599574478,38.6578685988332
 41,open,04/06/18,NA,09/14,google maps,NA,NA,NA,-90.2089335436102,38.662113534138
-42,closed,04/06/18,complete,06/29/17,in-person,NA,NA,3500-block of North 23rd St at Palm St,-90.2058294637066,38.6568662306012
-43,closed,04/06/18,complete,10/11,google maps,NA,NA,3900-block of Cote Brilliante Ave at Vandeventer Ave,-90.2310144062011,38.6522482039797
-44,closed,04/06/18,complete,07/31/17,in-person,NA,NA,4000-block of Cote Brilliante Ave at North Sarah St,-90.2354877681407,38.6542304330459
+42,closed,09/21/18,complete,06/29/17,in-person,NA,NA,3500-block of North 23rd St at Palm St,-90.2058294637066,38.6568662306012
+43,closed,09/21/18,complete,10/11,google maps,NA,NA,3900-block of Cote Brilliante Ave at Vandeventer Ave,-90.2310144062011,38.6522482039797
+44,closed,09/21/18,complete,07/31/17,in-person,NA,NA,4000-block of Cote Brilliante Ave at North Sarah St,-90.2354877681407,38.6542304330459
 45,open,04/06/18,NA,09/16,google maps,NA,NA,NA,-90.2399801406945,38.6604960733775
-46,closed,04/06/18,complete,07/31/17,in-person,NA,NA,4600-block of North Market St at Cora Ave,-90.2496185492572,38.6626293135569
-47,closed,04/06/18,complete,09/14,google maps,NA,NA,4600-block of North Market St at Marcus Ave,-90.2511542138843,38.6632966900977
+46,closed,09/21/18,complete,07/31/17,in-person,NA,NA,4600-block of North Market St at Cora Ave,-90.2496185492572,38.6626293135569
+47,closed,09/21/18,complete,09/14,google maps,NA,NA,4600-block of North Market St at Marcus Ave,-90.2511542138843,38.6632966900977
 48,open,04/06/18,NA,07/17,google maps,NA,NA,NA,-90.2377294911302,38.6584774084787
 49,open,04/06/18,NA,09/16,google maps,NA,NA,NA,-90.2405361267346,38.659682523371
-50,closed,04/06/18,complete,06/30/17,in-person,NA,NA,3800-block of Sullivan Ave at Vandeventer Blvd,-90.2246424723691,38.6607235154624
-51,closed,04/06/18,partial,05/15,google maps,NA,NA,Intersection of North 19th St and Benton St partially blocked,-90.2018719061284,38.6480392356136
-52,closed,04/06/18,complete,08/17,google maps,NA,NA,1500-block of Chambers St at North 16th St,-90.1976014507892,38.6444132854032
-53,closed,04/06/18,complete,07/17,google maps,NA,NA,1900-block of Dodier St at North Florissant Ave,-90.2008947119405,38.6526918478367
-54,closed,04/06/18,complete,08/17,google maps,NA,NA,"1500-block of North 18th St, mid-blockL",-90.2003980635007,38.6430924357247
-55,closed,04/06/18,complete,06/22/17,in-person,NA,NA,1200-block of North 11th St at O’Fallon St,-90.1926329997664,38.6380270001719
-56,closed,04/06/18,complete,08/17,google maps,NA,NA,1400-block of O’Fallon St at North 14th StLL,-90.1968908621924,38.6391018464333
+50,closed,09/21/18,complete,06/30/17,in-person,NA,NA,3800-block of Sullivan Ave at Vandeventer Blvd,-90.2246424723691,38.6607235154624
+51,closed,09/21/18,partial,05/15,google maps,NA,NA,Intersection of North 19th St and Benton St partially blocked,-90.2018719061284,38.6480392356136
+52,closed,09/21/18,complete,08/17,google maps,NA,NA,1500-block of Chambers St at North 16th St,-90.1976014507892,38.6444132854032
+53,closed,09/21/18,complete,07/17,google maps,NA,NA,1900-block of Dodier St at North Florissant Ave,-90.2008947119405,38.6526918478367
+54,closed,09/21/18,complete,08/17,google maps,NA,NA,"1500-block of North 18th St, mid-blockL",-90.2003980635007,38.6430924357247
+55,closed,09/21/18,complete,06/22/17,in-person,NA,NA,1200-block of North 11th St at O’Fallon St,-90.1926329997664,38.6380270001719
+56,closed,09/21/18,complete,08/17,google maps,NA,NA,1400-block of O’Fallon St at North 14th StLL,-90.1968908621924,38.6391018464333
 57,open,04/06/18,NA,08/17,google maps,NA,NA,NA,-90.196998279021,38.6378028769075
 58,open,04/06/18,NA,08/17,google maps,NA,NA,NA,-90.1961994993642,38.6416056482705
-59,closed,04/06/18,complete,06/22/17,in-person,NA,NA,1200-block of Hadley St at O’Fallon St,-90.1935460000643,38.6382139998893
-61,closed,04/06/18,complete,06/29/17,in-person,NA,NA,3233-block of Knapp St at Branch St,-90.2001000874581,38.6565045926173
-62,closed,04/06/18,complete,08/17,google maps,NA,NA,1500-block of North 16th St at Mullanphy St,-90.1980259361452,38.643356104689
-64,closed,04/06/18,partial,05/15,google maps,NA,NA,Intersection of North 19th St and Warren St partially blocked,-90.2015875282098,38.6488170381566
-65,closed,04/06/18,partial,07/17,google maps,NA,NA,1300-block of O’Fallon St at North 13th St,-90.1949598543061,38.6386902621016
-66,closed,04/06/18,partial,05/17,google maps,NA,NA,1400-block of O’Fallon St at East 14th St,-90.1959678110083,38.6389047405337
-67,closed,04/06/18,complete,06/29/17,in-person,NA,NA,1400-block of East Penrose St at Blair Ave,-90.2033157118555,38.6664247543935
-69,closed,04/06/18,complete,08/17,google maps,NA,NA,1500-block of Mullanphy St at North 16th St,-90.1977691542537,38.6434146479383
-70,closed,04/06/18,complete,06/16,google maps,NA,NA,1300-block of North 16th St at O’Fallon St,-90.1992953638578,38.6396612499488
-71,closed,04/06/18,complete,06/29/17,in-person,NA,NA,2800-block of North 21st St at Hebert St,-90.2025716036878,38.6544734205315
-73,closed,04/06/18,complete,07/17,google maps,NA,NA,1427-block of Wright St at North Florissant Ave,-90.2002253149791,38.6517789733884
-194,closed,04/06/18,complete,07/17,google maps,NA,NA,1239-block of Aubert Ave at Page Blvd,-90.2606713355409,38.6596080932503
-197,closed,04/06/18,complete,05/15,google maps,NA,NA,"1100-block of Bayard Ave, mid-block",-90.25825462101,38.6559170593626
-201,closed,04/06/18,complete,05/15,google maps,NA,NA,4800-block of Fountain Ave at Walton Ave,-90.257025411229293,38.6551674919093
-198,closed,04/06/18,complete,07/17,google maps,NA,NA,4300-block of Enright Ave at North Newstead Ave,-90.2495613893954,38.6497714928872
-200,closed,04/06/18,complete,07/17,google maps,NA,NA,"4500-block of Enright Ave, mid-block",-90.253316658084,38.6516663248432
-202,closed,04/06/18,complete,07/17,google maps,NA,NA,4200-block of Maryland Ave at Whittier St,-90.248016561283407,38.6415829001342
-203,closed,04/06/18,complete,05/15,google maps,NA,NA,4700-block of McMillan Ave at Walton Ave,-90.256971858411,38.6539988816543
-204,closed,04/06/18,complete,05/28/17,in-person,NA,NA,"500-block of Walton Ave, mid-block",-90.2581433294526,38.6490578816635
+59,closed,09/21/18,complete,06/22/17,in-person,NA,NA,1200-block of Hadley St at O’Fallon St,-90.1935460000643,38.6382139998893
+61,closed,09/21/18,complete,06/29/17,in-person,NA,NA,3233-block of Knapp St at Branch St,-90.2001000874581,38.6565045926173
+62,closed,09/21/18,complete,08/17,google maps,NA,NA,1500-block of North 16th St at Mullanphy St,-90.1980259361452,38.643356104689
+64,closed,09/21/18,partial,05/15,google maps,NA,NA,Intersection of North 19th St and Warren St partially blocked,-90.2015875282098,38.6488170381566
+65,closed,09/21/18,partial,07/17,google maps,NA,NA,1300-block of O’Fallon St at North 13th St,-90.1949598543061,38.6386902621016
+66,closed,09/21/18,partial,05/17,google maps,NA,NA,1400-block of O’Fallon St at East 14th St,-90.1959678110083,38.6389047405337
+67,closed,09/21/18,complete,06/29/17,in-person,NA,NA,1400-block of East Penrose St at Blair Ave,-90.2033157118555,38.6664247543935
+69,closed,09/21/18,complete,08/17,google maps,NA,NA,1500-block of Mullanphy St at North 16th St,-90.1977691542537,38.6434146479383
+70,closed,09/21/18,complete,06/16,google maps,NA,NA,1300-block of North 16th St at O’Fallon St,-90.1992953638578,38.6396612499488
+71,closed,09/21/18,complete,06/29/17,in-person,NA,NA,2800-block of North 21st St at Hebert St,-90.2025716036878,38.6544734205315
+73,closed,09/21/18,complete,07/17,google maps,NA,NA,1427-block of Wright St at North Florissant Ave,-90.2002253149791,38.6517789733884
+194,closed,09/21/18,complete,07/17,google maps,NA,NA,1239-block of Aubert Ave at Page Blvd,-90.2606713355409,38.6596080932503
+197,closed,09/21/18,complete,05/15,google maps,NA,NA,"1100-block of Bayard Ave, mid-block",-90.25825462101,38.6559170593626
+201,closed,09/21/18,complete,05/15,google maps,NA,NA,4800-block of Fountain Ave at Walton Ave,-90.257025411229293,38.6551674919093
+198,closed,09/21/18,complete,07/17,google maps,NA,NA,4300-block of Enright Ave at North Newstead Ave,-90.2495613893954,38.6497714928872
+200,closed,09/21/18,complete,07/17,google maps,NA,NA,"4500-block of Enright Ave, mid-block",-90.253316658084,38.6516663248432
+202,closed,09/21/18,complete,07/17,google maps,NA,NA,4200-block of Maryland Ave at Whittier St,-90.248016561283407,38.6415829001342
+203,closed,09/21/18,complete,05/15,google maps,NA,NA,4700-block of McMillan Ave at Walton Ave,-90.256971858411,38.6539988816543
+204,closed,09/21/18,complete,05/28/17,in-person,NA,NA,"500-block of Walton Ave, mid-block",-90.2581433294526,38.6490578816635
 205,open,04/06/18,NA,05/28/17,in-person,NA,NA,NA,-90.2462328635818,38.6443290926408
-206,closed,04/06/18,complete,05/28/17,in-person,NA,NA,4400-block of Washington Ave at North Newstead Ave,-90.2512574737818,38.6480516529748
-207,closed,04/06/18,complete,07/17,google maps,NA,NA,500-block of Pendleton Ave at North Boyle Ave,-90.2489104276193,38.6463069594683
-208,closed,04/06/18,complete,05/17,google maps,NA,NA,4700-block of Washington Ave at Walton Ave,-90.2578343986438,38.6499875902283
+206,closed,09/21/18,complete,05/28/17,in-person,NA,NA,4400-block of Washington Ave at North Newstead Ave,-90.2512574737818,38.6480516529748
+207,closed,09/21/18,complete,07/17,google maps,NA,NA,500-block of Pendleton Ave at North Boyle Ave,-90.2489104276193,38.6463069594683
+208,closed,09/21/18,complete,05/17,google maps,NA,NA,4700-block of Washington Ave at Walton Ave,-90.2578343986438,38.6499875902283
 209,open,04/06/18,NA,07/17,google maps,NA,NA,NA,-90.240956999617,38.6474749997254
-210,closed,04/06/18,complete,05/28/17,in-person,NA,NA,4400-block of Westminster Pl at North Taylor Ave,-90.2554750504963,38.6472048433923
-211,closed,04/06/18,partial,05/28/17,in-person,NA,NA,Intersection of McPherson Ave and Whittier St,-90.2475329338107,38.6425239726664
-231,closed,04/06/18,complete,07/21/17,in-person,NA,NA,"1421-block of Amherst Pl, mid-block",-90.2849843938185,38.6722875523833
-232,closed,04/06/18,complete,08/11,google maps,NA,NA,5700-block of Etzel Ave at Blackstone Ave,-90.2830941535124,38.6637780813716
-233,closed,04/06/18,complete,07/17,google maps,NA,NA,5700-block of Julian Ave at Goodfellow Blvd,-90.284087373989,38.6653848208183
-234,open,04/07/18,NA,09/11,google maps,NA,NA,NA,-90.2720981564186,38.6750946372215
-235,closed,04/06/18,partial,07/17,google maps,NA,NA,5800-block of Etzel Ave at Goodfellow Blvd,-90.2854255110682,38.6640361404527
-237,closed,04/06/18,complete,05/29/17,in-person,NA,NA,4300-block of Beck Ave at Ridgewood Ave,-90.2694232536759,38.5924039492264
-264,closed,04/06/18,complete,08/17,google maps,NA,NA,6100-block of Lucille Ave at Mimika Ave,-90.2570404498847,38.7054558233758
-265,closed,04/06/18,complete,06/25/17,in-person,NA,NA,5300-block of Waterman Blvd at Belt Ave,-90.27804204968,38.6491732777114
-266,closed,04/06/18,complete,06/30/17,in-person,NA,NA,"5700-block of De Giverville Ave, mid-block",-90.285932886212,38.6487188626438
-267,closed,04/06/18,complete,06/30/17,in-person,NA,NA,"5938-block of De Giverville Ave, mid-block",-90.2928714155623,38.6541524410918
-268,closed,04/06/18,complete,06/30/17,in-person,NA,NA,500-block of Des Peres Ave at Washington Ave,-90.2942202669109,38.654127655367
+210,closed,09/21/18,complete,05/28/17,in-person,NA,NA,4400-block of Westminster Pl at North Taylor Ave,-90.2554750504963,38.6472048433923
+211,closed,09/21/18,partial,05/28/17,in-person,NA,NA,Intersection of McPherson Ave and Whittier St,-90.2475329338107,38.6425239726664
+231,closed,09/21/18,complete,07/21/17,in-person,NA,NA,"1421-block of Amherst Pl, mid-block",-90.2849843938185,38.6722875523833
+232,closed,09/21/18,complete,08/11,google maps,NA,NA,5700-block of Etzel Ave at Blackstone Ave,-90.2830941535124,38.6637780813716
+233,closed,09/21/18,complete,07/17,google maps,NA,NA,5700-block of Julian Ave at Goodfellow Blvd,-90.284087373989,38.6653848208183
+234,open,04/06/18,NA,09/11,google maps,NA,NA,NA,-90.2720981564186,38.6750946372215
+235,closed,09/21/18,partial,07/17,google maps,NA,NA,5800-block of Etzel Ave at Goodfellow Blvd,-90.2854255110682,38.6640361404527
+237,closed,09/21/18,complete,05/29/17,in-person,NA,NA,4300-block of Beck Ave at Ridgewood Ave,-90.2694232536759,38.5924039492264
+264,closed,09/21/18,complete,08/17,google maps,NA,NA,6100-block of Lucille Ave at Mimika Ave,-90.2570404498847,38.7054558233758
+265,closed,09/21/18,complete,06/25/17,in-person,NA,NA,5300-block of Waterman Blvd at Belt Ave,-90.27804204968,38.6491732777114
+266,closed,09/21/18,complete,06/30/17,in-person,NA,NA,"5700-block of De Giverville Ave, mid-block",-90.285932886212,38.6487188626438
+267,closed,09/21/18,complete,06/30/17,in-person,NA,NA,"5938-block of De Giverville Ave, mid-block",-90.2928714155623,38.6541524410918
+268,closed,09/21/18,complete,06/30/17,in-person,NA,NA,500-block of Des Peres Ave at Washington Ave,-90.2942202669109,38.654127655367
 269,open,04/06/18,NA,06/30/17,in-person,NA,NA,NA,-90.2905550117893,38.6545413342177
-270,closed,04/06/18,complete,06/25/17,in-person,NA,NA,5500-block of Kingsbury Blvd at Clara Ave,-90.2823555561271,38.6510622418292
-271,closed,04/06/18,complete,06/25/17,in-person,NA,NA,5630-block of Kingsbury Ave at DeBaliviere Ave,-90.2845778445658,38.6512858250365
-272,closed,04/06/18,complete,06/30/17,in-person,NA,NA,5700-block of Kingsbury Ave at Laurel St,-90.2890144834804,38.6519968971137
-273,closed,04/06/18,complete,07/17,google maps,NA,NA,"600-block of Lake Ave, mid-block",-90.2697815308022,38.6515353298891
-274,closed,04/06/18,complete,05/28/17,in-peson,NA,NA,4300-block of McPherson Ave at North Boyle Ave,-90.249829497952,38.643530867248
-275,closed,04/06/18,complete,05/28/17,in-person,NA,NA,4400-block of McPherson Ave at North Taylor Ave,-90.256116427056,38.646301395962404
-276,closed,04/06/18,complete,05/28/17,in-person,NA,NA,4300-block of North Newstead Ave at Olive St,-90.2520736869786,38.6467863263222
-277,closed,04/06/18,partial,06/30/17,in-person,NA,NA,5800-block of Nina Pl at McPherson Ave,-90.2918889254668,38.6510661154269
-278,closed,04/06/18,complete,05/28/17,in-person,NA,NA,4500-block of Pershing Ave at North Taylor Ave,-90.257133205702,38.645280130047
-280,closed,04/06/18,complete,06/30/17,in-person,NA,NA,"533-block of Rosedale Ave, mid-block",-90.2961111898603,38.6545961892153
-281,closed,04/06/18,complete,07/17,google maps,NA,NA,"5000-block of Washington Ave, mid-blockL",-90.2650259420712,38.650618143612
+270,closed,09/21/18,complete,06/25/17,in-person,NA,NA,5500-block of Kingsbury Blvd at Clara Ave,-90.2823555561271,38.6510622418292
+271,closed,09/21/18,complete,06/25/17,in-person,NA,NA,5630-block of Kingsbury Ave at DeBaliviere Ave,-90.2845778445658,38.6512858250365
+272,closed,09/21/18,complete,06/30/17,in-person,NA,NA,5700-block of Kingsbury Ave at Laurel St,-90.2890144834804,38.6519968971137
+273,closed,09/21/18,complete,07/17,google maps,NA,NA,"600-block of Lake Ave, mid-block",-90.2697815308022,38.6515353298891
+274,closed,09/21/18,complete,05/28/17,in-peson,NA,NA,4300-block of McPherson Ave at North Boyle Ave,-90.249829497952,38.643530867248
+275,closed,09/21/18,complete,05/28/17,in-person,NA,NA,4400-block of McPherson Ave at North Taylor Ave,-90.256116427056,38.646301395962404
+276,closed,09/21/18,complete,05/28/17,in-person,NA,NA,4300-block of North Newstead Ave at Olive St,-90.2520736869786,38.6467863263222
+277,closed,09/21/18,partial,06/30/17,in-person,NA,NA,5800-block of Nina Pl at McPherson Ave,-90.2918889254668,38.6510661154269
+278,closed,09/21/18,complete,05/28/17,in-person,NA,NA,4500-block of Pershing Ave at North Taylor Ave,-90.257133205702,38.645280130047
+280,closed,09/21/18,complete,06/30/17,in-person,NA,NA,"533-block of Rosedale Ave, mid-block",-90.2961111898603,38.6545961892153
+281,closed,09/21/18,complete,07/17,google maps,NA,NA,"5000-block of Washington Ave, mid-blockL",-90.2650259420712,38.650618143612
 282,redeveloped,04/06/18,NA,06/30/17,NA,NA,NA,NA,-90.2903491503885,38.653553375659
 283,open,04/06/18,NA,06/25/17,in-person,NA,NA,NA,-90.273827440667,38.651594626816
-285,closed,04/06/18,complete,06/25/17,in-person,NA,NA,5630-block of Waterman Blvd at DeBaliviere Ave,-90.2847038371162,38.6498185618631
-286,closed,04/06/18,complete,05/28/17,in-peson,NA,NA,4300-block of Westminster Pl at North Boyle Ave,-90.2491611992587,38.6444110637134
-287,closed,04/06/18,complete,05/28/17,in-person,NA,NA,4700-block of Westminster Pl at North Euclid Ave,-90.2606892344442,38.6495014795192
-288,closed,04/06/18,complete,06/30/17,in-person,NA,NA,5700-block of Westminster Pl at Laurel St,-90.2889258400352,38.652585879046804
+285,closed,09/21/18,complete,06/25/17,in-person,NA,NA,5630-block of Waterman Blvd at DeBaliviere Ave,-90.2847038371162,38.6498185618631
+286,closed,09/21/18,complete,05/28/17,in-peson,NA,NA,4300-block of Westminster Pl at North Boyle Ave,-90.2491611992587,38.6444110637134
+287,closed,09/21/18,complete,05/28/17,in-person,NA,NA,4700-block of Westminster Pl at North Euclid Ave,-90.2606892344442,38.6495014795192
+288,closed,09/21/18,complete,06/30/17,in-person,NA,NA,5700-block of Westminster Pl at Laurel St,-90.2889258400352,38.652585879046804
 290,open,04/06/18,NA,08/17,google maps,NA,NA,NA,-90.2721949925302,38.6589292527949
-74,closed,04/06/18,complete,05/26/17,in-person,NA,NA,3100-block of Allen Ave at South Compton Ave,-90.2328833327245,38.6134666592253
-75,closed,04/06/18,complete,05/29/17,in-person,NA,NA,2900-block of Allen Ave at Nebraska Ave,-90.2285739992341,38.6129070000552
-78,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1100-block of Dolman St at the 1000-block of Dolman St,-90.2090032270609,38.6196223166182
-79,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1600-block of Dolman St at Lafayette Ave,-90.2106109236568,38.6137604480186
-80,closed,04/06/18,complete,5/31/18,in-person,NA,NA,2800-block of Eads Ave at Nebraska Ave,-90.2272991884746,38.617386617516
-81,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1100-block of South 18th St at the 1000-block of South 18th St,-90.2101069997634,38.6197510003091
-83,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1600-block of South 18th St at Lafayette Ave,-90.2118040424094,38.6138376939864
-84,closed,04/06/18,complete,05/26/17,in-person,NA,NA,3100-block of Geyer Ave at South Compton Ave,-90.2326768797232,38.6143579318658
-86,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"2600-block of Geyer Ave, mid-block",-90.2221149999309,38.6130329997245
-87,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"2832-block of Geyer Ave, mid-block",-90.2277411672363,38.6137499513377
-89,closed,04/06/18,complete,05/29/17,in-person,NA,NA,3400-block of Hartford St at Louisiana Ave,-90.2379725560491,38.6012643904482
-90,closed,04/06/18,complete,5/31/18,in-person,NA,NA,2800-block of Henrietta St at Nebraska Ave,-90.2274740002831,38.6164770004866
-91,closed,04/06/18,complete,5/31/18,in-person,NA,NA,2900-block of Henrietta St at Pennsylvania Ave,-90.2290906808011,38.6166798018137
-92,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1600-block of Hickory St at Truman Pkwy,-90.208881947105,38.6182234173874
+74,closed,09/21/18,complete,05/26/17,in-person,NA,NA,3100-block of Allen Ave at South Compton Ave,-90.2328833327245,38.6134666592253
+75,closed,09/21/18,complete,05/29/17,in-person,NA,NA,2900-block of Allen Ave at Nebraska Ave,-90.2285739992341,38.6129070000552
+78,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1100-block of Dolman St at the 1000-block of Dolman St,-90.2090032270609,38.6196223166182
+79,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1600-block of Dolman St at Lafayette Ave,-90.2106109236568,38.6137604480186
+80,closed,09/21/18,complete,5/31/18,in-person,NA,NA,2800-block of Eads Ave at Nebraska Ave,-90.2272991884746,38.617386617516
+81,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1100-block of South 18th St at the 1000-block of South 18th St,-90.2101069997634,38.6197510003091
+83,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1600-block of South 18th St at Lafayette Ave,-90.2118040424094,38.6138376939864
+84,closed,09/21/18,complete,05/26/17,in-person,NA,NA,3100-block of Geyer Ave at South Compton Ave,-90.2326768797232,38.6143579318658
+86,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"2600-block of Geyer Ave, mid-block",-90.2221149999309,38.6130329997245
+87,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"2832-block of Geyer Ave, mid-block",-90.2277411672363,38.6137499513377
+89,closed,09/21/18,complete,05/29/17,in-person,NA,NA,3400-block of Hartford St at Louisiana Ave,-90.2379725560491,38.6012643904482
+90,closed,09/21/18,complete,5/31/18,in-person,NA,NA,2800-block of Henrietta St at Nebraska Ave,-90.2274740002831,38.6164770004866
+91,closed,09/21/18,complete,5/31/18,in-person,NA,NA,2900-block of Henrietta St at Pennsylvania Ave,-90.2290906808011,38.6166798018137
+92,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1600-block of Hickory St at Truman Pkwy,-90.208881947105,38.6182234173874
 94,open,04/06/18,NA,06/02/17,in-person,NA,NA,NA,-90.2083499999671,38.6178359998492
-95,closed,04/06/18,complete,07/17,google maps,NA,NA,2300-block of Hickory St at South Jefferson Ave,-90.2191598933406,38.6202977689007
-96,closed,04/06/18,complete,05/31/17,in-person,NA,NA,2700-block of Hickory St at Ohio Ave,-90.221543274128,38.6210834561897
-97,closed,04/06/18,complete,05/31/17,in-person,NA,NA,3100-block of Hickory St at South Compton Ave,-90.2303565534006,38.6229304873777
-98,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1800-block of LaSalle St at South 18th St,-90.2103766564704,38.6195410260777
-99,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1100-block of MacKay Pl at the 1000-block of MacKay Pl,-90.2154611210602,38.6205793471722
-101,closed,04/06/18,complete,05/31/17,in-person,NA,NA,2700-block of Rutger St at Ohio Ave,-90.2218228319664,38.6202799154472
-102,closed,04/06/18,complete,05/31/17,in-person,NA,NA,2600-block of Rutger St at South Jefferson Ave,-90.2197799996029,38.619888000452
-103,closed,04/06/18,complete,05/31/17,in-person,NA,NA,2800-block of Rutger St at Ohio Ave,-90.2243562721051,38.620790115684
-104,closed,04/06/18,complete,05/31/17,in-person,NA,NA,3100-block of Rutger St at South Compton Ave,-90.230637646168,38.6220746486078
-108,closed,04/06/18,complete,5/31/18,in-person,NA,NA,2800-block of St Vincent Ave at Nebraska Ave,-90.227196598529,38.6182500580223
-113,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"2600-block of Allen Ave, mid-block",-90.2222368788091,38.6121363893128
-114,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"2600-block of Ann Ave, mid-block",-90.2227850468934,38.6103223739712
-115,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"2600-block of Armand Pl, mid-block",-90.223050311884,38.6085549497981
-117,closed,04/06/18,complete,05/29/17,in-person,NA,NA,2800-block of Victor St at California Ave,-90.2274370003082,38.6072839998002
-118,closed,04/06/18,complete,06/02/17,in-person,NA,NA,1600-block of Carroll St at Truman Pkwy,-90.2096959859243,38.6148669979701
-120,closed,04/06/18,complete,06/22/17,in-person,NA,NA,1100-block of Carroll St at South Tucker Blvd,-90.2052784911038,38.6134585417029
+95,closed,09/21/18,complete,07/17,google maps,NA,NA,2300-block of Hickory St at South Jefferson Ave,-90.2191598933406,38.6202977689007
+96,closed,09/21/18,complete,05/31/17,in-person,NA,NA,2700-block of Hickory St at Ohio Ave,-90.221543274128,38.6210834561897
+97,closed,09/21/18,complete,05/31/17,in-person,NA,NA,3100-block of Hickory St at South Compton Ave,-90.2303565534006,38.6229304873777
+98,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1800-block of LaSalle St at South 18th St,-90.2103766564704,38.6195410260777
+99,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1100-block of MacKay Pl at the 1000-block of MacKay Pl,-90.2154611210602,38.6205793471722
+101,closed,09/21/18,complete,05/31/17,in-person,NA,NA,2700-block of Rutger St at Ohio Ave,-90.2218228319664,38.6202799154472
+102,closed,09/21/18,complete,05/31/17,in-person,NA,NA,2600-block of Rutger St at South Jefferson Ave,-90.2197799996029,38.619888000452
+103,closed,09/21/18,complete,05/31/17,in-person,NA,NA,2800-block of Rutger St at Ohio Ave,-90.2243562721051,38.620790115684
+104,closed,09/21/18,complete,05/31/17,in-person,NA,NA,3100-block of Rutger St at South Compton Ave,-90.230637646168,38.6220746486078
+108,closed,09/21/18,complete,5/31/18,in-person,NA,NA,2800-block of St Vincent Ave at Nebraska Ave,-90.227196598529,38.6182500580223
+113,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"2600-block of Allen Ave, mid-block",-90.2222368788091,38.6121363893128
+114,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"2600-block of Ann Ave, mid-block",-90.2227850468934,38.6103223739712
+115,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"2600-block of Armand Pl, mid-block",-90.223050311884,38.6085549497981
+117,closed,09/21/18,complete,05/29/17,in-person,NA,NA,2800-block of Victor St at California Ave,-90.2274370003082,38.6072839998002
+118,closed,09/21/18,complete,06/02/17,in-person,NA,NA,1600-block of Carroll St at Truman Pkwy,-90.2096959859243,38.6148669979701
+120,closed,09/21/18,complete,06/22/17,in-person,NA,NA,1100-block of Carroll St at South Tucker Blvd,-90.2052784911038,38.6134585417029
 122,open,04/06/18,NA,08/17,google maps,NA,NA,NA,-90.1951824291595,38.6185052230627
-128,closed,04/06/18,complete,07/17,google maps,NA,NA,"3600-block of Blaine Ave, mid-block",-90.2399259993536,38.6190630000428
-129,closed,04/06/18,complete,05/20/17,in-person,NA,NA,"3600-block of Botanical Ave, mid-block",-90.2421532933983,38.6088273115963
-130,closed,04/06/18,complete,05/20/17,in-person,NA,NA,4200-block of Botanical Ave at Tower Grove Ave,-90.2575120235159,38.6102986623025
-131,closed,04/06/18,complete,05/20/17,in-person,NA,NA,3900-block of Castleman Ave at Lawrence Ave,-90.2474469998498,38.6150249995706
-132,closed,04/06/18,complete,05/20/17,in-person,NA,NA,4200-block of Castleman Ave at Tower Grove Ave,-90.2563002234613,38.6158011815998
-133,closed,04/06/18,complete,05/20/17,in-person,NA,NA,"3600-block of Cleveland Ave, mid-block",-90.2416333672202,38.610565066761
-134,closed,04/06/18,complete,05/20/17,in-person,NA,NA,4200-block of Cleveland Ave at Tower Grove Ave,-90.2571552487215,38.6120256469512
-136,closed,04/06/18,complete,05/20/17,in-person,NA,NA,"3600-block of Flad Ave, mid-block",-90.2414240573264,38.6114347447095
-137,closed,04/06/18,complete,05/20/17,in-person,NA,NA,"3600-block of Flad Ave, mid-block",-90.2412811228742,38.6114212500337
-138,closed,04/06/18,complete,05/20/17,in-person,NA,NA,4200-block of Flad Ave at Tower Grove Ave,-90.2569760228847,38.6129031741124
-140,closed,04/06/18,complete,05/20/17,in-person,NA,NA,4200-block of Flora Pl at Tower Grove Ave,-90.2566530004556,38.6138800004624
-139,closed,04/06/18,complete,05/20/17,in-person,NA,NA,3600-block of Flora Pl at South Grand Blvd,-90.2405409998613,38.6123499998192
-141,closed,04/06/18,complete,06/30/18,google maps,NA,NA,3800-block of Folsom Ave at 39th St,-90.2444604291604,38.62039315165
-142,closed,04/06/18,complete,07/17,google maps,NA,NA,3900-block of McCree Ave at 39th St,-90.2451159996512,38.6186200001172
-143,closed,04/06/18,complete,05/26/17,in-person,NA,NA,4000-block of McCree Ave at Thurman Ave,-90.2500523986023,38.6190743755065
-144,closed,04/06/18,complete,06/16,google maps,NA,NA,"3600-block of McRee Ave, mid-block",-90.2399675176191,38.6181496122
-145,closed,04/06/18,complete,05/20/17,in-person,NA,NA,4200-block of Russell Blvd at Tower Grove Ave,-90.2565790636382,38.6149917964049
-146,closed,04/06/18,complete,05/20/17,in-person,NA,NA,"3600-block of Shenandoah Ave, mid-block",-90.2416799997915,38.6096649997299
-147,closed,04/06/18,complete,05/20/17,in-person,NA,NA,4200-block of Shenandoah Ave at Tower Grove Ave,-90.2573410884629,38.6111585934018
-148,closed,04/06/18,complete,05/20/17,in-person,NA,NA,1700-block of Thurman Ave at Detonty St,-90.2504152665338,38.6172633092174
-150,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"3500-block of Crittenden St, mid-block",-90.241956128617,38.6035655887277
-152,closed,04/06/18,complete,05/29/17,in-person,NA,NA,3300-block of Humphrey St at Gravois Ave,-90.2376121813471,38.5973479041772
-153,closed,04/06/18,complete,06/02/17,in-person,NA,NA,3100-block of Illinois Ave at Arsenal St,-90.2205797684042,38.5977994346899
-156,closed,04/06/18,complete,06/22/17,in-person,NA,NA,2600-block of Gasconade St at Ohio Ave,-90.2301348723215,38.5809893601187
-162,closed,04/06/18,complete,06/22/17,in-person,NA,NA,2250-block of Judith Ct at Gasconade St,-90.2273943955744,38.5805883292953
-163,closed,04/06/18,complete,06/22/17,in-person,NA,NA,3600-block of Missouri Ave at South Broadway,-90.2241397469262,38.5881480407913
-164,closed,04/06/18,complete,06/22/17,in-person,NA,NA,1900-block of Winnebago St at Marine AveL,-90.2205258117181,38.5871486313899
+128,closed,09/21/18,complete,07/17,google maps,NA,NA,"3600-block of Blaine Ave, mid-block",-90.2399259993536,38.6190630000428
+129,closed,09/21/18,complete,05/20/17,in-person,NA,NA,"3600-block of Botanical Ave, mid-block",-90.2421532933983,38.6088273115963
+130,closed,09/21/18,complete,05/20/17,in-person,NA,NA,4200-block of Botanical Ave at Tower Grove Ave,-90.2575120235159,38.6102986623025
+131,closed,09/21/18,complete,05/20/17,in-person,NA,NA,3900-block of Castleman Ave at Lawrence Ave,-90.2474469998498,38.6150249995706
+132,closed,09/21/18,complete,05/20/17,in-person,NA,NA,4200-block of Castleman Ave at Tower Grove Ave,-90.2563002234613,38.6158011815998
+133,closed,09/21/18,complete,05/20/17,in-person,NA,NA,"3600-block of Cleveland Ave, mid-block",-90.2416333672202,38.610565066761
+134,closed,09/21/18,complete,05/20/17,in-person,NA,NA,4200-block of Cleveland Ave at Tower Grove Ave,-90.2571552487215,38.6120256469512
+136,closed,09/21/18,complete,05/20/17,in-person,NA,NA,"3600-block of Flad Ave, mid-block",-90.2414240573264,38.6114347447095
+137,closed,09/21/18,complete,05/20/17,in-person,NA,NA,"3600-block of Flad Ave, mid-block",-90.2412811228742,38.6114212500337
+138,closed,09/21/18,complete,05/20/17,in-person,NA,NA,4200-block of Flad Ave at Tower Grove Ave,-90.2569760228847,38.6129031741124
+140,closed,09/21/18,complete,05/20/17,in-person,NA,NA,4200-block of Flora Pl at Tower Grove Ave,-90.2566530004556,38.6138800004624
+139,closed,09/21/18,complete,05/20/17,in-person,NA,NA,3600-block of Flora Pl at South Grand Blvd,-90.2405409998613,38.6123499998192
+141,closed,09/21/18,complete,06/30/18,google maps,NA,NA,3800-block of Folsom Ave at 39th St,-90.2444604291604,38.62039315165
+142,closed,09/21/18,complete,07/17,google maps,NA,NA,3900-block of McCree Ave at 39th St,-90.2451159996512,38.6186200001172
+143,closed,09/21/18,complete,05/26/17,in-person,NA,NA,4000-block of McCree Ave at Thurman Ave,-90.2500523986023,38.6190743755065
+144,closed,09/21/18,complete,06/16,google maps,NA,NA,"3600-block of McRee Ave, mid-block",-90.2399675176191,38.6181496122
+145,closed,09/21/18,complete,05/20/17,in-person,NA,NA,4200-block of Russell Blvd at Tower Grove Ave,-90.2565790636382,38.6149917964049
+146,closed,09/21/18,complete,05/20/17,in-person,NA,NA,"3600-block of Shenandoah Ave, mid-block",-90.2416799997915,38.6096649997299
+147,closed,09/21/18,complete,05/20/17,in-person,NA,NA,4200-block of Shenandoah Ave at Tower Grove Ave,-90.2573410884629,38.6111585934018
+148,closed,09/21/18,complete,05/20/17,in-person,NA,NA,1700-block of Thurman Ave at Detonty St,-90.2504152665338,38.6172633092174
+150,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"3500-block of Crittenden St, mid-block",-90.241956128617,38.6035655887277
+152,closed,09/21/18,complete,05/29/17,in-person,NA,NA,3300-block of Humphrey St at Gravois Ave,-90.2376121813471,38.5973479041772
+153,closed,09/21/18,complete,06/02/17,in-person,NA,NA,3100-block of Illinois Ave at Arsenal St,-90.2205797684042,38.5977994346899
+156,closed,09/21/18,complete,06/22/17,in-person,NA,NA,2600-block of Gasconade St at Ohio Ave,-90.2301348723215,38.5809893601187
+162,closed,09/21/18,complete,06/22/17,in-person,NA,NA,2250-block of Judith Ct at Gasconade St,-90.2273943955744,38.5805883292953
+163,closed,09/21/18,complete,06/22/17,in-person,NA,NA,3600-block of Missouri Ave at South Broadway,-90.2241397469262,38.5881480407913
+164,closed,09/21/18,complete,06/22/17,in-person,NA,NA,1900-block of Winnebago St at Marine AveL,-90.2205258117181,38.5871486313899
 165,open,04/06/18,NA,07/23/17,in-person,NA,NA,NA,-90.3105296147405,38.5904635376295
-166,closed,04/06/18,complete,07/23/17,in-person,NA,NA,"4600-block of McCausland Ave, mid-block",-90.312215195107,38.5880785755483
-167,closed,04/06/18,complete,07/23/17,in-person,NA,NA,"6700-block of Plainview Ave, mid-block",-90.3073595017928,38.5901983181694
-170,closed,04/06/18,complete,06/06/17,in-person,NA,NA,4400-block of Arco Ave at South Newstead Ave,-90.2586378278414,38.6281381132012
-171,closed,04/06/18,complete,06/06/17,in-person,NA,NA,4300-block of Arco Ave at South Newstead Ave,-90.258402129615,38.6280869111723
-173,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4500-block of Cadet Ave at South Kingshighway Blvd
+166,closed,09/21/18,complete,07/23/17,in-person,NA,NA,"4600-block of McCausland Ave, mid-block",-90.312215195107,38.5880785755483
+167,closed,09/21/18,complete,07/23/17,in-person,NA,NA,"6700-block of Plainview Ave, mid-block",-90.3073595017928,38.5901983181694
+170,closed,09/21/18,complete,06/06/17,in-person,NA,NA,4400-block of Arco Ave at South Newstead Ave,-90.2586378278414,38.6281381132012
+171,closed,09/21/18,complete,06/06/17,in-person,NA,NA,4300-block of Arco Ave at South Newstead Ave,-90.258402129615,38.6280869111723
+173,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4500-block of Cadet Ave at South Kingshighway Blvd
 ",-90.2643094658891,38.6265717605441
 174,open,04/06/18,NA,06/06/17,in-person,NA,NA,NA,-90.2544877399886,38.6281723368106
-176,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4400-block of Gibson Ave at South Newstead Ave
+176,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4400-block of Gibson Ave at South Newstead Ave
 ",-90.2583404838853,38.6290064214274
-177,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4300-block of Gibson Ave at South Newstead Ave
+177,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4300-block of Gibson Ave at South Newstead Ave
 ",-90.2581074638524,38.6289558417709
 180,open,04/06/18,NA,06/11,google maps,NA,NA,NA,-90.2665839995664,38.6274490000389
 181,open,04/06/18,NA,07/17,google maps,NA,NA,NA,-90.2663699220577,38.6287789296208
-184,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4400-block of Norfolk Ave at South Taylor Ave
+184,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4400-block of Norfolk Ave at South Taylor Ave
 ",-90.2618018753969,38.6244804715238
-185,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4500-block of Oakland Ave at South Kingshighway Blvd
+185,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4500-block of Oakland Ave at South Kingshighway Blvd
 ",-90.2643815747597,38.6284265348733
-186,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4400-block of Oakland Ave, mid-block",-90.2592674218652,38.6273117751858
-188,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4400-block of Swan Ave at South Taylor Ave
+186,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4400-block of Oakland Ave, mid-block",-90.2592674218652,38.6273117751858
+188,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4400-block of Swan Ave at South Taylor Ave
 ",-90.2616356086438,38.625416073011
-189,closed,04/06/18,complete,06/06/17,in-person,NA,NA,4400-block of Vista Ave at South Taylor Ave,-90.2620528252265,38.6235605914516
-192,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4500-block of Wichita Ave at South Kingshighway Blvd
+189,closed,09/21/18,complete,06/06/17,in-person,NA,NA,4400-block of Vista Ave at South Taylor Ave,-90.2620528252265,38.6235605914516
+192,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4500-block of Wichita Ave at South Kingshighway Blvd
 ",-90.2640562544298,38.6273306921085
-223,closed,04/06/18,complete,05/12,google maps,NA,NA,"3500-block of Oregon Ave, mid-block",-90.2318042708733,38.5908842254988
-224,closed,04/06/18,complete,09/14,google maps,NA,NA,4750-block of Palm St at Shreve Ave,-90.2465277729321,38.6730001984022
-238,closed,04/06/18,complete,07/16,google maps,NA,NA,5500-block of Bartmer Ave at Clara Ave,-90.2807136919122,38.6624679867419
-239,closed,04/06/18,complete,07/17,google maps,NA,NA,5300-block of Cabanne Ave at Belt Ave,-90.2781942646654,38.6580914283798
-242,closed,04/06/18,complete,08/11,google maps,NA,NA,5700-block of Cates Ave at Ruth C. Porter Mall,-90.2841029999662,38.6574830000914
-243,closed,04/06/18,complete,07/17,google maps,NA,NA,1100-block of Belt Ave at Maple Ave,-90.2779159589488,38.6605201498282
-245,closed,04/06/18,complete,06/25/17,in-person,NA,NA,501-block of Clara Ave at Delmar Blvd,-90.2821131443182,38.6534599305534
-246,closed,04/06/18,complete,07/15,google maps,NA,NA,5800-block of Clemens Ave at Hamilton Blvd,-90.2901072127672,38.6568739665368
-248,closed,04/06/18,complete,07/17,google maps,NA,NA,5400-block of Enright Ave at Belt Ave,-90.2787847722834,38.6547634286161
-249,closed,04/06/18,complete,07/15,google maps,NA,NA,5800-block of Enright Ave at Hamilton Blvd,-90.2903000126876,38.6557022670101
-251,closed,04/06/18,complete,06/30/17,in-person,NA,NA,5700-block of McPherson Ave at DeBaliviere Ave,-90.2857820001934,38.6509360006123
-252,closed,04/06/18,complete,07/17,google maps,NA,NA,5300-block of Maple Ave at Belt Ave,-90.2778393155528,38.6601248288077
-253,closed,04/06/18,complete,07/21/18,in-person,NA,NA,5100-block of Minerva Ave at Academy Ave,-90.2661037118148,38.6613805104415
-255,closed,04/06/18,complete,08/11,google maps,NA,NA,1-block of Thornby Pl at Bartmer Ave,-90.2867584988852,38.6629954210067
-256,closed,04/06/18,complete,07/21/17,in-person,NA,NA,5300-block of Vernon Ave at Belt Ave,-90.2778769993491,38.6591990001383
-257,closed,04/06/18,complete,07/21/18,in-person,NA,NA,5100-block of Wells Ave at Academy Ave,-90.2653323897237,38.6634301630922
-228,closed,04/06/18,complete,07/31/17,in-person,NA,NA,"4600-block of Sacramento Ave, mid-block",-90.2425870123811,38.6734266807404
-229,closed,04/06/18,complete,07/17,google maps,NA,NA,3800-block of Kossuth Ave at Fair Ave,-90.2259641653296,38.6699203999614
-230,closed,04/06/18,complete,07/31/17,in-person,NA,NA,4500-block of Penrose St at Dryden Ave,-90.2370626102883,38.6771471546355
-215,closed,04/06/18,complete,09/14,google maps,NA,NA,3800-block of Windsor Pl at North Spring Ave,-90.2328187294992,38.6445309755697
-214,closed,04/06/18,complete,05/28/17,in-person,NA,NA,3700-block of Westminster Pl at Vandeventer Ave,-90.239758041449,38.6402792856978
-213,closed,04/06/18,complete,05/15,google maps,NA,NA,2900-block of University St at Glasgow Ave,-90.2170157526574,38.6543570020845
-258,closed,04/06/18,complete,07/17,google maps,NA,NA,"5000-block of Wells Ave, mid-block",-90.2625014115154,38.6625143619457
-259,closed,04/06/18,complete,NA,google satellite,NA,NA,5900-block of Emma Ave at Park Ln,-90.2537079881891,38.7053616987166
-260,closed,04/06/18,complete,07/21/17,in-person,NA,NA,6100-block of Garesche Ave at Mimika Ave,-90.2579775438142,38.7042038351595
-262,closed,04/06/18,complete,08/17,google maps,NA,NA,6100-block of Lalite Ave at Mimika Ave,-90.2589967407151,38.7027818852153
+223,closed,09/21/18,complete,05/12,google maps,NA,NA,"3500-block of Oregon Ave, mid-block",-90.2318042708733,38.5908842254988
+224,closed,09/21/18,complete,09/14,google maps,NA,NA,4750-block of Palm St at Shreve Ave,-90.2465277729321,38.6730001984022
+238,closed,09/21/18,complete,07/16,google maps,NA,NA,5500-block of Bartmer Ave at Clara Ave,-90.2807136919122,38.6624679867419
+239,closed,09/21/18,complete,07/17,google maps,NA,NA,5300-block of Cabanne Ave at Belt Ave,-90.2781942646654,38.6580914283798
+242,closed,09/21/18,complete,08/11,google maps,NA,NA,5700-block of Cates Ave at Ruth C. Porter Mall,-90.2841029999662,38.6574830000914
+243,closed,09/21/18,complete,07/17,google maps,NA,NA,1100-block of Belt Ave at Maple Ave,-90.2779159589488,38.6605201498282
+245,closed,09/21/18,complete,06/25/17,in-person,NA,NA,501-block of Clara Ave at Delmar Blvd,-90.2821131443182,38.6534599305534
+246,closed,09/21/18,complete,07/15,google maps,NA,NA,5800-block of Clemens Ave at Hamilton Blvd,-90.2901072127672,38.6568739665368
+248,closed,09/21/18,complete,07/17,google maps,NA,NA,5400-block of Enright Ave at Belt Ave,-90.2787847722834,38.6547634286161
+249,closed,09/21/18,complete,07/15,google maps,NA,NA,5800-block of Enright Ave at Hamilton Blvd,-90.2903000126876,38.6557022670101
+251,closed,09/21/18,complete,06/30/17,in-person,NA,NA,5700-block of McPherson Ave at DeBaliviere Ave,-90.2857820001934,38.6509360006123
+252,closed,09/21/18,complete,07/17,google maps,NA,NA,5300-block of Maple Ave at Belt Ave,-90.2778393155528,38.6601248288077
+253,closed,09/21/18,complete,07/21/18,in-person,NA,NA,5100-block of Minerva Ave at Academy Ave,-90.2661037118148,38.6613805104415
+255,closed,09/21/18,complete,08/11,google maps,NA,NA,1-block of Thornby Pl at Bartmer Ave,-90.2867584988852,38.6629954210067
+256,closed,09/21/18,complete,07/21/17,in-person,NA,NA,5300-block of Vernon Ave at Belt Ave,-90.2778769993491,38.6591990001383
+257,closed,09/21/18,complete,07/21/18,in-person,NA,NA,5100-block of Wells Ave at Academy Ave,-90.2653323897237,38.6634301630922
+228,closed,09/21/18,complete,07/31/17,in-person,NA,NA,"4600-block of Sacramento Ave, mid-block",-90.2425870123811,38.6734266807404
+229,closed,09/21/18,complete,07/17,google maps,NA,NA,3800-block of Kossuth Ave at Fair Ave,-90.2259641653296,38.6699203999614
+230,closed,09/21/18,complete,07/31/17,in-person,NA,NA,4500-block of Penrose St at Dryden Ave,-90.2370626102883,38.6771471546355
+215,closed,09/21/18,complete,09/14,google maps,NA,NA,3800-block of Windsor Pl at North Spring Ave,-90.2328187294992,38.6445309755697
+214,closed,09/21/18,complete,05/28/17,in-person,NA,NA,3700-block of Westminster Pl at Vandeventer Ave,-90.239758041449,38.6402792856978
+213,closed,09/21/18,complete,05/15,google maps,NA,NA,2900-block of University St at Glasgow Ave,-90.2170157526574,38.6543570020845
+258,closed,09/21/18,complete,07/17,google maps,NA,NA,"5000-block of Wells Ave, mid-block",-90.2625014115154,38.6625143619457
+259,closed,09/21/18,complete,NA,google satellite,NA,NA,5900-block of Emma Ave at Park Ln,-90.2537079881891,38.7053616987166
+260,closed,09/21/18,complete,07/21/17,in-person,NA,NA,6100-block of Garesche Ave at Mimika Ave,-90.2579775438142,38.7042038351595
+262,closed,09/21/18,complete,08/17,google maps,NA,NA,6100-block of Lalite Ave at Mimika Ave,-90.2589967407151,38.7027818852153
 29,unknown,04/06/18,NA,07/17,google maps,NA,NA,NA,-90.2225341529854,38.6579732973552
 68,unknown,04/06/18,NA,NA,NA,NA,NA,NA,-90.2039520000847,38.6557799996463
-77,closed,04/06/18,complete,07/17,google maps,NA,NA,2600-block of Caroline St at South Jefferson Ave,-90.2203113586138,38.619051015214
-85,closed,04/06/18,complete,05/26/17,in-person,NA,NA,3200-block of Geyer Ave at South Compton Ave,-90.2328619945523,38.6143812140121
-88,closed,04/06/18,complete,05/29/17,in-person,NA,NA,2900-block of Geyer Ave at Nebraska Ave,-90.228345752972,38.613823600064
-109,closed,04/06/18,complete,05/26/17,in-person,NA,NA,1900-block of Virginia Ave at Russell Blvd,-90.234267067406,38.6128462410184
+77,closed,09/21/18,complete,07/17,google maps,NA,NA,2600-block of Caroline St at South Jefferson Ave,-90.2203113586138,38.619051015214
+85,closed,09/21/18,complete,05/26/17,in-person,NA,NA,3200-block of Geyer Ave at South Compton Ave,-90.2328619945523,38.6143812140121
+88,closed,09/21/18,complete,05/29/17,in-person,NA,NA,2900-block of Geyer Ave at Nebraska Ave,-90.228345752972,38.613823600064
+109,closed,09/21/18,complete,05/26/17,in-person,NA,NA,1900-block of Virginia Ave at Russell Blvd,-90.234267067406,38.6128462410184
 110,open,04/06/18,NA,07/17,google maps,NA,NA,NA,-90.2246112021024,38.6096508251694
-111,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"2600-block of Accomac St, mid-block",-90.2229439473794,38.6094518128369
-112,closed,04/06/18,complete,05/29/17,in-person,NA,NA,2830-block of Accomac St at Oregon Ave,-90.2279401570273,38.6100768351223
+111,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"2600-block of Accomac St, mid-block",-90.2229439473794,38.6094518128369
+112,closed,09/21/18,complete,05/29/17,in-person,NA,NA,2830-block of Accomac St at Oregon Ave,-90.2279401570273,38.6100768351223
 116,open,04/06/18,NA,07/17,google maps,NA,NA,NA,-90.2026413250745,38.6015314315951
-123,closed,04/06/18,complete,06/22/17,in-person,NA,NA,1400-block of Menard St at Park Ave,-90.2024320001367,38.613880000061
-125,closed,04/06/18,complete,06/22/17,in-person,NA,NA,1100-block of Rutger St at South Tucker Blvd,-90.2031409995574,38.6150649998489
+123,closed,09/21/18,complete,06/22/17,in-person,NA,NA,1400-block of Menard St at Park Ave,-90.2024320001367,38.613880000061
+125,closed,09/21/18,complete,06/22/17,in-person,NA,NA,1100-block of Rutger St at South Tucker Blvd,-90.2031409995574,38.6150649998489
 126,open,04/06/18,NA,05/17,google maps,NA,NA,NA,-90.1910829251342,38.6258411400866
-241,closed,04/06/18,complete,08/11,google maps,NA,NA,5600-block of Cates Ave at Ruth C. Porter Mall,-90.2834682130917,38.6574195743449
-244,closed,04/06/18,complete,09/14,google maps,NA,NA,"841-block of Clara Ave, mid-block",-90.2815468905699,38.6576833737565
-261,closed,04/06/18,complete,07/21/17,in-person,NA,NA,5700-block of Henner Ave at Riverview Blvd,-90.2614045530187,38.6964516464864
-263,closed,04/06/18,complete,10/11,google maps,NA,NA,6300-block of Lucille Ave at the City boundary,-90.2608770000734,38.7071590001867
-8,closed,04/06/18,complete,09/12,google maps,NA,NA,"10100-block of Lookaway Dr, south of Benvenue Dr",-90.1959218300583,38.7495067973333
-60,closed,04/06/18,complete,05/17,google maps,NA,NA,1900-block of East Hebert St at Knapp St,-90.2006979710788,38.6546259930052
-105,closed,04/06/18,complete,08/17,google maps,NA,NA,"1500-block of North 17th St, mid-block",-90.1993463105764,38.6429109012336
-106,closed,04/06/18,complete,08/17,google maps,NA,NA,800-block of North 17th St at Delmar Blvd,-90.2027444802242,38.6346543830189
-107,closed,04/06/18,complete,08/17,google maps,NA,NA,800-block of North 16th St at Delmar Blvd,-90.2012881431557,38.6343523670671
-149,closed,04/06/18,complete,05/26/17,in-person,NA,NA,1700-block of Thurman Ave at Lafayette Ave,-90.2503020942284,38.6180789147195
-175,closed,04/06/18,complete,06/06/17,in-person,NA,NA,"4200-block of Gibson Ave, mid-block",-90.253047565959207,38.6278754744844
-178,closed,04/06/18,complete,08/17,google maps,NA,NA,4300-block of Laclede Ave at North Boyle Ave,-90.2519994555393,38.638217016356
-179,closed,04/06/18,complete,07/17,google maps,NA,NA,4400-block of Laclede Ave at North Taylor Ave,-90.2588350053182,38.6396455135964
+241,closed,09/21/18,complete,08/11,google maps,NA,NA,5600-block of Cates Ave at Ruth C. Porter Mall,-90.2834682130917,38.6574195743449
+244,closed,09/21/18,complete,09/14,google maps,NA,NA,"841-block of Clara Ave, mid-block",-90.2815468905699,38.6576833737565
+261,closed,09/21/18,complete,07/21/17,in-person,NA,NA,5700-block of Henner Ave at Riverview Blvd,-90.2614045530187,38.6964516464864
+263,closed,09/21/18,complete,10/11,google maps,NA,NA,6300-block of Lucille Ave at the City boundary,-90.2608770000734,38.7071590001867
+8,closed,09/21/18,complete,09/12,google maps,NA,NA,"10100-block of Lookaway Dr, south of Benvenue Dr",-90.1959218300583,38.7495067973333
+60,closed,09/21/18,complete,05/17,google maps,NA,NA,1900-block of East Hebert St at Knapp St,-90.2006979710788,38.6546259930052
+105,closed,09/21/18,complete,08/17,google maps,NA,NA,"1500-block of North 17th St, mid-block",-90.1993463105764,38.6429109012336
+106,closed,09/21/18,complete,08/17,google maps,NA,NA,800-block of North 17th St at Delmar Blvd,-90.2027444802242,38.6346543830189
+107,closed,09/21/18,complete,08/17,google maps,NA,NA,800-block of North 16th St at Delmar Blvd,-90.2012881431557,38.6343523670671
+149,closed,09/21/18,complete,05/26/17,in-person,NA,NA,1700-block of Thurman Ave at Lafayette Ave,-90.2503020942284,38.6180789147195
+175,closed,09/21/18,complete,06/06/17,in-person,NA,NA,"4200-block of Gibson Ave, mid-block",-90.253047565959207,38.6278754744844
+178,closed,09/21/18,complete,08/17,google maps,NA,NA,4300-block of Laclede Ave at North Boyle Ave,-90.2519994555393,38.638217016356
+179,closed,09/21/18,complete,07/17,google maps,NA,NA,4400-block of Laclede Ave at North Taylor Ave,-90.2588350053182,38.6396455135964
 187,redeveloped,04/06/18,NA,NA,NA,NA,NA,NA,-90.2608779208443,38.6372684953862
-190,closed,04/06/18,complete,05/28/17,in-person,NA,NA,4100-block of West Pine Blvd at North Sarah St,-90.2462607919526,38.6385094406793
-199,closed,04/06/18,complete,07/17,google maps,NA,NA,4400-block of Enright Ave at North Taylor Ave,-90.2527571838746,38.6511672591171
-219,closed,04/06/18,complete,07/17,google maps,NA,NA,4900-block of Highland Ave at North Kingshighway Blvd,-90.2575928798813,38.6679870681423
-220,closed,04/06/18,complete,07/17,google maps,NA,NA,4900-block of East Labadie Ave at North Kingshighway Blvd,-90.2545635532775,38.6722004195779
-221,closed,04/06/18,complete,07/17,google maps,NA,NA,4900-block of Lotus Ave at North Kingshighway Blvd,-90.2589903785587,38.666336918053
-222,closed,04/06/18,complete,07/17,google maps,NA,NA,4900-block of Maffitt Ave at North Kingshighway Blvd,-90.2563533097461,38.6697154404585
-226,closed,04/06/18,complete,07/17,google maps,NA,NA,4900-block of Wabada Ave at North Kingshighway Blvd,-90.2582535671653,38.6671363561402
-240,closed,04/06/18,complete,09/14,google maps,NA,NA,5600-block of Cabanne Ave at Ruth C. Porter Mall,-90.2834084001795,38.6586037310902
-292,closed,04/06/18,complete,09/14,google maps,NA,NA,5700-block of Cabanne Ave at Ruth C. Porter Mall,-90.2838052317511,38.658645062947
-254,closed,04/06/18,complete,08/17,google maps,NA,NA,5200-block of Raymond Ave at Hodiamont Tracks,-90.271513744996,38.657869513882
-293,closed,04/06/18,complete,08/17,google maps,NA,NA,"5300-block of Patton Ave, mid-block",-90.2668996112259,38.6678435606373
-236,closed,04/06/18,complete,08/17,google maps,NA,NA,5300-block of Theodosia Ave at Union Blvd,-90.2670109936362,38.6667751265845
-294,closed,04/06/18,complete,07/17,google maps,NA,NA,4500-block of Suburban Tracks at North Taylor Ave,-90.252446353843,38.6518844333153
-195,closed,04/06/18,complete,07/15,google maps,NA,NA,5900-block of Hodiamont Track at Hamilton Blvd,-90.2897154394089,38.6599380416953
-297,closed,04/06/18,complete,05/31/17,in-person,NA,NA,"1100-block of Ohio Ave, mid-block",-90.221319386333,38.6214670688439
-298,closed,04/06/18,complete,05/15,google maps,NA,NA,4700-block of Suburban Tracks at Walton Ave,-90.2569743261433,38.653908982465
-299,closed,04/06/18,complete,05/15,google maps,NA,NA,4800-block of Suburban Tracks at Walton Ave,-90.2571886996989,38.6539751820376
-295,closed,04/06/18,complete,07/17,google maps,NA,NA,5600-block of Enright Ave at Ruth C. Porter Mall,-90.2845172996693,38.655152009935
-296,closed,04/06/18,complete,07/17,google maps,NA,NA,5600-block of Enright Ave at Ruth C. Porter Mall,-90.2838900793248,38.6550555548492
-300,closed,04/06/18,complete,05/28/17,in-person,NA,NA,3900-block of Westminster Pl at Vandeventer Ave,-90.2400186503986,38.6403992867591
-284,closed,04/06/18,complete,06/25/17,in-person,NA,NA,"401-block of Belt Ave, mid-block",-90.2780390491336,38.6498518272201
-301,closed,04/06/18,complete,08/17,google maps,NA,NA,5200-block of Westminster Pl at Union Blvd,-90.2735186058136,38.6503955029462
-302,closed,04/06/18,complete,08/17,google maps,NA,NA,35-block of Portland Pl at Union Blvd,-90.2740375450671,38.6478370714742
-303,closed,04/06/18,complete,08/17,google maps,NA,NA,35-block of Westmoreland Pl at Union Blvd,-90.2742404130709,38.6464138255623
-304,closed,04/06/18,complete,05/17,google maps,NA,NA,4900-block of Pershing Ave at North Kingshighway Blvd,-90.2642691802049,38.6467715273186
-305,closed,04/06/18,complete,05/17,google maps,NA,NA,4900-block of Maryland Ave at North Kingshighway Blvd,-90.2645151505995,38.645340605628
-306,closed,04/06/18,complete,05/17,google maps,NA,NA,"5000-block of Westminster Pl, mid-block",-90.2641916059785,38.6494240931173
-307,closed,04/06/18,complete,07/17,google maps,NA,NA,"4400-block of Pershing Ave, mid-block",-90.2551399106743,38.6448778643057
-308,closed,04/06/18,complete,07/17,google maps,NA,NA,"300-block of Walton Ave, mid-block",-90.2585066540267,38.6466507954761
-309,closed,04/06/18,complete,08/17,google maps,NA,NA,"4500-block of Arco Ave at South Kingshighway Blvd
+190,closed,09/21/18,complete,05/28/17,in-person,NA,NA,4100-block of West Pine Blvd at North Sarah St,-90.2462607919526,38.6385094406793
+199,closed,09/21/18,complete,07/17,google maps,NA,NA,4400-block of Enright Ave at North Taylor Ave,-90.2527571838746,38.6511672591171
+219,closed,09/21/18,complete,07/17,google maps,NA,NA,4900-block of Highland Ave at North Kingshighway Blvd,-90.2575928798813,38.6679870681423
+220,closed,09/21/18,complete,07/17,google maps,NA,NA,4900-block of East Labadie Ave at North Kingshighway Blvd,-90.2545635532775,38.6722004195779
+221,closed,09/21/18,complete,07/17,google maps,NA,NA,4900-block of Lotus Ave at North Kingshighway Blvd,-90.2589903785587,38.666336918053
+222,closed,09/21/18,complete,07/17,google maps,NA,NA,4900-block of Maffitt Ave at North Kingshighway Blvd,-90.2563533097461,38.6697154404585
+226,closed,09/21/18,complete,07/17,google maps,NA,NA,4900-block of Wabada Ave at North Kingshighway Blvd,-90.2582535671653,38.6671363561402
+240,closed,09/21/18,complete,09/14,google maps,NA,NA,5600-block of Cabanne Ave at Ruth C. Porter Mall,-90.2834084001795,38.6586037310902
+292,closed,09/21/18,complete,09/14,google maps,NA,NA,5700-block of Cabanne Ave at Ruth C. Porter Mall,-90.2838052317511,38.658645062947
+254,closed,09/21/18,complete,08/17,google maps,NA,NA,5200-block of Raymond Ave at Hodiamont Tracks,-90.271513744996,38.657869513882
+293,closed,09/21/18,complete,08/17,google maps,NA,NA,"5300-block of Patton Ave, mid-block",-90.2668996112259,38.6678435606373
+236,closed,09/21/18,complete,08/17,google maps,NA,NA,5300-block of Theodosia Ave at Union Blvd,-90.2670109936362,38.6667751265845
+294,closed,09/21/18,complete,07/17,google maps,NA,NA,4500-block of Suburban Tracks at North Taylor Ave,-90.252446353843,38.6518844333153
+195,closed,09/21/18,complete,07/15,google maps,NA,NA,5900-block of Hodiamont Track at Hamilton Blvd,-90.2897154394089,38.6599380416953
+297,closed,09/21/18,complete,05/31/17,in-person,NA,NA,"1100-block of Ohio Ave, mid-block",-90.221319386333,38.6214670688439
+298,closed,09/21/18,complete,05/15,google maps,NA,NA,4700-block of Suburban Tracks at Walton Ave,-90.2569743261433,38.653908982465
+299,closed,09/21/18,complete,05/15,google maps,NA,NA,4800-block of Suburban Tracks at Walton Ave,-90.2571886996989,38.6539751820376
+295,closed,09/21/18,complete,07/17,google maps,NA,NA,5600-block of Enright Ave at Ruth C. Porter Mall,-90.2845172996693,38.655152009935
+296,closed,09/21/18,complete,07/17,google maps,NA,NA,5600-block of Enright Ave at Ruth C. Porter Mall,-90.2838900793248,38.6550555548492
+300,closed,09/21/18,complete,05/28/17,in-person,NA,NA,3900-block of Westminster Pl at Vandeventer Ave,-90.2400186503986,38.6403992867591
+284,closed,09/21/18,complete,06/25/17,in-person,NA,NA,"401-block of Belt Ave, mid-block",-90.2780390491336,38.6498518272201
+301,closed,09/21/18,complete,08/17,google maps,NA,NA,5200-block of Westminster Pl at Union Blvd,-90.2735186058136,38.6503955029462
+302,closed,09/21/18,complete,08/17,google maps,NA,NA,35-block of Portland Pl at Union Blvd,-90.2740375450671,38.6478370714742
+303,closed,09/21/18,complete,08/17,google maps,NA,NA,35-block of Westmoreland Pl at Union Blvd,-90.2742404130709,38.6464138255623
+304,closed,09/21/18,complete,05/17,google maps,NA,NA,4900-block of Pershing Ave at North Kingshighway Blvd,-90.2642691802049,38.6467715273186
+305,closed,09/21/18,complete,05/17,google maps,NA,NA,4900-block of Maryland Ave at North Kingshighway Blvd,-90.2645151505995,38.645340605628
+306,closed,09/21/18,complete,05/17,google maps,NA,NA,"5000-block of Westminster Pl, mid-block",-90.2641916059785,38.6494240931173
+307,closed,09/21/18,complete,07/17,google maps,NA,NA,"4400-block of Pershing Ave, mid-block",-90.2551399106743,38.6448778643057
+308,closed,09/21/18,complete,07/17,google maps,NA,NA,"300-block of Walton Ave, mid-block",-90.2585066540267,38.6466507954761
+309,closed,09/21/18,complete,08/17,google maps,NA,NA,"4500-block of Arco Ave at South Kingshighway Blvd
 ",-90.2643453541063,38.6293612028402
-310,closed,04/06/18,complete,07/17,google maps,NA,NA,1700-block of Lawrence St at Detonty St,-90.2478123523152,38.6170446153578
-311,closed,04/06/18,complete,06/16,google maps,NA,NA,1700-block of Lawrence St at Lafayette Ave,-90.2476925054816,38.617810267451
-312,closed,04/06/18,partial,05/20/17,in-person,NA,NA,3800-block of Russell Blvd at South Spring Ave,-90.2429468245934,38.6137363169815
-313,closed,04/06/18,partial,05/20/17,in-person,NA,NA,3800-block of Castleman Ave at South Spring Ave,-90.2428263374446,38.614543429218
-314,closed,04/06/18,complete,05/26/17,in-person,NA,NA,4000-block of Blaine Ave at Thurman Ave,-90.249905841104,38.619989617838
-315,closed,04/06/18,partial,08/17,google maps,NA,NA,4500-block of Chouteau Ave at South Kingshighway Blvd,-90.2639753145406,38.6311376711841
-316,closed,04/06/18,complete,08/17,google maps,NA,NA,4500-block of Gibson Ave at South Kingshighway Blvd,-90.2641644170171,38.6302799194204
-317,closed,04/06/18,complete,05/29/17,in-person,NA,NA,"3200-block of Hartford St, mid-block",-90.236742177061,38.6011176468091
-318,closed,04/06/18,complete,05/29/17,in-person,NA,NA,2800-block of Accomac St at California Ave,-90.2268508027336,38.609937357445
-319,closed,04/06/18,complete,05/31/17,in-person,NA,NA,"2700-block of Caroline St, mid-block",-90.2234925234093,38.6197493602921
-320,closed,04/06/18,complete,05/31/17,in-person,NA,NA,2700-block of Caroline St at Ohio Ave,-90.2220990310641,38.619455784713
-321,closed,04/06/18,complete,07/17,google maps,NA,NA,Intersection of Chamberlain Ave and Belt Ave,-90.2780113551366,38.6606804995085
-322,closed,04/06/18,complete,08/17,google maps,NA,NA,5200-block of Hodiamont Tracks at Union Blvd,-90.2723034274547,38.6580278780748
-323,closed,04/06/18,complete,07/17,google maps,NA,NA,5300-block of Bartmer Ave at Page Blvd,-90.2725679569699,38.6607746771142
-324,closed,04/06/18,complete,07/21/18,in-person,NA,NA,6100-block of Emma Ave at Mimika Ave,-90.256103703932,38.706814844463
-325,closed,04/06/18,partial,07/17,google maps,NA,NA,"Extension of 4100-block of Warne Ave, south of Kossuth Ave",-90.2220465621244,38.6681827935707
-326,closed,04/06/18,complete,07/17,google maps,NA,NA,4200-block of North Market St at Whittier St,-90.236589199153,38.6569532141761
-327,closed,04/06/18,complete,07/17,google maps,NA,NA,4200-block of Garfield Ave at Goode Ave,-90.2387172731162,38.6568438664698
-328,closed,04/06/18,complete,05/15,google maps,NA,NA,56-block of Lewis Pl at Walton Ave,-90.2567762445638,38.6550122783426
-329,closed,04/06/18,complete,07/17,google maps,NA,NA,4300-block of Maryland Ave at North Boyle Ave,-90.2502832346841,38.6424150066175
-330,closed,04/06/18,partial,05/28/17,in-person,NA,NA,4200-block of Olive St at North Boyle Ave,-90.2481857264471,38.6451614667079
-331,closed,04/06/18,complete,07/16,google maps,NA,NA,4000-block of North 20th St at Newhouse Ave,-90.2047610493129,38.6640597537945
-332,closed,04/06/18,complete,09/14,google maps,NA,NA,3900-block of North 22nd St at Newhouse Ave,-90.2078304315681,38.6623645537544
+310,closed,09/21/18,complete,07/17,google maps,NA,NA,1700-block of Lawrence St at Detonty St,-90.2478123523152,38.6170446153578
+311,closed,09/21/18,complete,06/16,google maps,NA,NA,1700-block of Lawrence St at Lafayette Ave,-90.2476925054816,38.617810267451
+312,closed,09/21/18,partial,05/20/17,in-person,NA,NA,3800-block of Russell Blvd at South Spring Ave,-90.2429468245934,38.6137363169815
+313,closed,09/21/18,partial,05/20/17,in-person,NA,NA,3800-block of Castleman Ave at South Spring Ave,-90.2428263374446,38.614543429218
+314,closed,09/21/18,complete,05/26/17,in-person,NA,NA,4000-block of Blaine Ave at Thurman Ave,-90.249905841104,38.619989617838
+315,closed,09/21/18,partial,08/17,google maps,NA,NA,4500-block of Chouteau Ave at South Kingshighway Blvd,-90.2639753145406,38.6311376711841
+316,closed,09/21/18,complete,08/17,google maps,NA,NA,4500-block of Gibson Ave at South Kingshighway Blvd,-90.2641644170171,38.6302799194204
+317,closed,09/21/18,complete,05/29/17,in-person,NA,NA,"3200-block of Hartford St, mid-block",-90.236742177061,38.6011176468091
+318,closed,09/21/18,complete,05/29/17,in-person,NA,NA,2800-block of Accomac St at California Ave,-90.2268508027336,38.609937357445
+319,closed,09/21/18,complete,05/31/17,in-person,NA,NA,"2700-block of Caroline St, mid-block",-90.2234925234093,38.6197493602921
+320,closed,09/21/18,complete,05/31/17,in-person,NA,NA,2700-block of Caroline St at Ohio Ave,-90.2220990310641,38.619455784713
+321,closed,09/21/18,complete,07/17,google maps,NA,NA,Intersection of Chamberlain Ave and Belt Ave,-90.2780113551366,38.6606804995085
+322,closed,09/21/18,complete,08/17,google maps,NA,NA,5200-block of Hodiamont Tracks at Union Blvd,-90.2723034274547,38.6580278780748
+323,closed,09/21/18,complete,07/17,google maps,NA,NA,5300-block of Bartmer Ave at Page Blvd,-90.2725679569699,38.6607746771142
+324,closed,09/21/18,complete,07/21/18,in-person,NA,NA,6100-block of Emma Ave at Mimika Ave,-90.256103703932,38.706814844463
+325,closed,09/21/18,partial,07/17,google maps,NA,NA,"Extension of 4100-block of Warne Ave, south of Kossuth Ave",-90.2220465621244,38.6681827935707
+326,closed,09/21/18,complete,07/17,google maps,NA,NA,4200-block of North Market St at Whittier St,-90.236589199153,38.6569532141761
+327,closed,09/21/18,complete,07/17,google maps,NA,NA,4200-block of Garfield Ave at Goode Ave,-90.2387172731162,38.6568438664698
+328,closed,09/21/18,complete,05/15,google maps,NA,NA,56-block of Lewis Pl at Walton Ave,-90.2567762445638,38.6550122783426
+329,closed,09/21/18,complete,07/17,google maps,NA,NA,4300-block of Maryland Ave at North Boyle Ave,-90.2502832346841,38.6424150066175
+330,closed,09/21/18,partial,05/28/17,in-person,NA,NA,4200-block of Olive St at North Boyle Ave,-90.2481857264471,38.6451614667079
+331,closed,09/21/18,complete,07/16,google maps,NA,NA,4000-block of North 20th St at Newhouse Ave,-90.2047610493129,38.6640597537945
+332,closed,09/21/18,complete,09/14,google maps,NA,NA,3900-block of North 22nd St at Newhouse Ave,-90.2078304315681,38.6623645537544
 333,open,04/06/18,NA,09/14,google maps,NA,NA,NA,-90.2022194475982,38.6569532988767
-334,closed,04/06/18,complete,07/17,google maps,NA,NA,2800-block of Rauschenbach Ave St at Hebert St,-90.203293007337,38.6550170916967
-335,closed,04/06/18,complete,07/16,google maps,NA,NA,"1200-block of East 14th St, mid-block",-90.1963546413796,38.6377592294899
-336,closed,04/06/18,complete,08/17,google maps,NA,NA,"1400-block of East 14th St, mid-block",-90.1954456816571,38.6404415737567
-337,closed,04/06/18,complete,07/17,google maps,NA,NA,Extension of the 1300-block of O’Fallon St at North Tuker Blvd,-90.1947804938218,38.6386509395083
-338,closed,04/06/18,complete,07/17,google maps,NA,NA,1100-block of O’Fallon St at North Tucker Blvd,-90.194169674536,38.6385248401743
-339,closed,04/06/18,complete,09/14,google maps,NA,NA,600-block of Biddle St at North 7th St,-90.188430537748,38.6360718995397
-340,closed,04/06/18,complete,08/17,google maps,NA,NA,500-block of Carr St at North Broadway,-90.1867712684417,38.634577315835
-341,closed,04/06/18,complete,08/12,google maps,NA,NA,10-block of Dickson St at North 1st St,-90.1829612605906,38.6379428499625
-342,closed,04/06/18,complete,08/12,google maps,NA,NA,6-block of Ashley St at North 1st St,-90.1828063729474,38.6363110308546
-343,closed,04/06/18,complete,08/12,google maps,NA,NA,1-block of Florida St at North 1st St,-90.1832651287808,38.6405072995567
-344,closed,04/06/18,complete,08/12,google maps,NA,NA,6-block of Madison St at North 1st St,-90.1858230633961,38.6486217470208
-345,closed,04/06/18,complete,07/16,google maps,NA,NA,3800-block of Labadie Ave at Vandeventer Blvd,-90.2260154375236,38.6590680186466
-346,closed,04/06/18,complete,07/17,google maps,NA,NA,5800-block of Plymouth Ave at Goodfellow Blvd,-90.2853901029089,38.6641382196733
-347,closed,04/06/18,complete,07/16,google maps,NA,NA,"1200-block of South 11th St, mid-block",-90.2021318742045,38.6161181456345
-348,closed,04/06/18,complete,08/17,google maps,1971 and 1988,historic aerials,1318-block of South 10th St at Park Ave,-90.2012765785909,38.6139491130523
-349,closed,04/06/18,complete,06/11,google maps,1971 and 1988,historic aerials,900-block of Rutger St at South 10th St,-90.2009383720873,38.6146285572378
-350,closed,04/06/18,complete,06/17,google maps,1971 and 1988,historic aerials,900-block of Morrison St at South 10th St,-90.2006282697178,38.6154332232498
-351,closed,04/06/18,complete,06/17,google maps,1971 and 1988,historic aerials,"1000-block of Morrison St at South 10th St
+334,closed,09/21/18,complete,07/17,google maps,NA,NA,2800-block of Rauschenbach Ave St at Hebert St,-90.203293007337,38.6550170916967
+335,closed,09/21/18,complete,07/16,google maps,NA,NA,"1200-block of East 14th St, mid-block",-90.1963546413796,38.6377592294899
+336,closed,09/21/18,complete,08/17,google maps,NA,NA,"1400-block of East 14th St, mid-block",-90.1954456816571,38.6404415737567
+337,closed,09/21/18,complete,07/17,google maps,NA,NA,Extension of the 1300-block of O’Fallon St at North Tuker Blvd,-90.1947804938218,38.6386509395083
+338,closed,09/21/18,complete,07/17,google maps,NA,NA,1100-block of O’Fallon St at North Tucker Blvd,-90.194169674536,38.6385248401743
+339,closed,09/21/18,complete,09/14,google maps,NA,NA,600-block of Biddle St at North 7th St,-90.188430537748,38.6360718995397
+340,closed,09/21/18,complete,08/17,google maps,NA,NA,500-block of Carr St at North Broadway,-90.1867712684417,38.634577315835
+341,closed,09/21/18,complete,08/12,google maps,NA,NA,10-block of Dickson St at North 1st St,-90.1829612605906,38.6379428499625
+342,closed,09/21/18,complete,08/12,google maps,NA,NA,6-block of Ashley St at North 1st St,-90.1828063729474,38.6363110308546
+343,closed,09/21/18,complete,08/12,google maps,NA,NA,1-block of Florida St at North 1st St,-90.1832651287808,38.6405072995567
+344,closed,09/21/18,complete,08/12,google maps,NA,NA,6-block of Madison St at North 1st St,-90.1858230633961,38.6486217470208
+345,closed,09/21/18,complete,07/16,google maps,NA,NA,3800-block of Labadie Ave at Vandeventer Blvd,-90.2260154375236,38.6590680186466
+346,closed,09/21/18,complete,07/17,google maps,NA,NA,5800-block of Plymouth Ave at Goodfellow Blvd,-90.2853901029089,38.6641382196733
+347,closed,09/21/18,complete,07/16,google maps,NA,NA,"1200-block of South 11th St, mid-block",-90.2021318742045,38.6161181456345
+348,closed,09/21/18,complete,08/17,google maps,1971 and 1988,historic aerials,1318-block of South 10th St at Park Ave,-90.2012765785909,38.6139491130523
+349,closed,09/21/18,complete,06/11,google maps,1971 and 1988,historic aerials,900-block of Rutger St at South 10th St,-90.2009383720873,38.6146285572378
+350,closed,09/21/18,complete,06/17,google maps,1971 and 1988,historic aerials,900-block of Morrison St at South 10th St,-90.2006282697178,38.6154332232498
+351,closed,09/21/18,complete,06/17,google maps,1971 and 1988,historic aerials,"1000-block of Morrison St at South 10th St
 ",-90.2008407554504,38.6154819016764
-352,closed,04/06/18,complete,06/11,google maps,1971 and 1988,historic aerials,900-block of Hickory St at South 10th St,-90.2004192183887,38.6162311617861
-353,closed,04/06/18,complete,06/11,google maps,1971 and 1988,historic aerials,1000-block of Hickory St at South 10th St,-90.200765248004,38.6163161077207
-354,closed,04/06/18,complete,06/17,google maps,1971 and 1988,historic aerials,900-block of La Salle Park Ct at South 10th St,-90.2003910431024,38.6170298487091
-355,closed,04/06/18,complete,06/17,google maps,1971 and 1988,historic aerials,1000-block of La Salle Park Ct at South 10th St,-90.200696959829,38.6170937868029
-356,closed,04/06/18,complete,06/17,google maps,1971 and 1988,historic aerials,1100-block of South 10th St at Lebanon Dr,-90.2004457063147,38.6173660645584
-357,closed,04/06/18,complete,06/17,google maps,1996 and 1998,historic aerials,1000-block of South 10th St at Lebanon Dr,-90.2004369689334,38.6173931087048
-358,closed,04/06/18,complete,06/17,google maps,1971 and 1988,historic aerials,1000-block of Rutger St at South 11th St,-90.2024743191001,38.6149386366339
-359,closed,04/06/18,complete,06/17,google maps,NA,NA,800-block of Hickory St at South 9th St,-90.1992755080364,38.6159994311874
-360,closed,04/06/18,complete,08/17,google maps,NA,NA,200-block of Rutger St at South 3rd St,-90.1942399776683,38.6133231521698
-361,closed,04/06/18,compete,08/15,google maps,NA,NA,"200-block of Rutger St, mid-block",-90.1936238869873,38.6131266051995
-362,closed,04/07/18,partial,10/11,google maps,NA,NA,Intersection of Rosedale Ave and Westminster Pl,-90.296307463327,38.6533060022377
-363,closed,04/07/18,partial,10/11,google maps,NA,NA,Intersection of Rosedale Ave and Kingsbury Ave,-90.2964582688592,38.6523951368229
-364,closed,04/07/18,partial,10/11,google maps,NA,NA,Intersection of Rosedale Ave and McPherson Ave,-90.2966311645802,38.6514915111197
+352,closed,09/21/18,complete,06/11,google maps,1971 and 1988,historic aerials,900-block of Hickory St at South 10th St,-90.2004192183887,38.6162311617861
+353,closed,09/21/18,complete,06/11,google maps,1971 and 1988,historic aerials,1000-block of Hickory St at South 10th St,-90.200765248004,38.6163161077207
+354,closed,09/21/18,complete,06/17,google maps,1971 and 1988,historic aerials,900-block of La Salle Park Ct at South 10th St,-90.2003910431024,38.6170298487091
+355,closed,09/21/18,complete,06/17,google maps,1971 and 1988,historic aerials,1000-block of La Salle Park Ct at South 10th St,-90.200696959829,38.6170937868029
+356,closed,09/21/18,complete,06/17,google maps,1971 and 1988,historic aerials,1100-block of South 10th St at Lebanon Dr,-90.2004457063147,38.6173660645584
+357,closed,09/21/18,complete,06/17,google maps,1996 and 1998,historic aerials,1000-block of South 10th St at Lebanon Dr,-90.2004369689334,38.6173931087048
+358,closed,09/21/18,complete,06/17,google maps,1971 and 1988,historic aerials,1000-block of Rutger St at South 11th St,-90.2024743191001,38.6149386366339
+359,closed,09/21/18,complete,06/17,google maps,NA,NA,800-block of Hickory St at South 9th St,-90.1992755080364,38.6159994311874
+360,closed,09/21/18,complete,08/17,google maps,NA,NA,200-block of Rutger St at South 3rd St,-90.1942399776683,38.6133231521698
+361,closed,09/21/18,compete,08/15,google maps,NA,NA,"200-block of Rutger St, mid-block",-90.1936238869873,38.6131266051995
+362,closed,09/21/18,partial,10/11,google maps,NA,NA,Intersection of Rosedale Ave and Westminster Pl,-90.296307463327,38.6533060022377
+363,closed,09/21/18,partial,10/11,google maps,NA,NA,Intersection of Rosedale Ave and Kingsbury Ave,-90.2964582688592,38.6523951368229
+364,closed,09/21/18,partial,10/11,google maps,NA,NA,Intersection of Rosedale Ave and McPherson Ave,-90.2966311645802,38.6514915111197
+365,closed,09/21/18,partial,09/21/18,in-person,NA,NA,4021-block of Chouteau Ave at North Sarah St,-90.250088868337,38.6282442046585
+366,closed,09/21/18,complete,09/21/18,in-person,NA,NA,4021-block of Chouteau Ave at Manchester Ave,-90.2490243419191,38.6280787846484

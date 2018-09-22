@@ -14,6 +14,7 @@
   * **Coordinate System -**
     * `.csv` - NAD 1983
     * `.geoJSON` - WGS 1984
+    * `.gpkg` - NAD 1983
     * `.shp` - NAD 1983
   * **Language -** English
   * **Topic Category -** Street Closures

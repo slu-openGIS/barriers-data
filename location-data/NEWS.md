@@ -1,8 +1,9 @@
 # location-data v0.2.0
 
-* Barrier 234 - updated to `closed` and re-added description data
+* Add new `Redev` column
 * Barrier 365 - added as a new `closed` barrier
 * Barrier 366 - added as a new `closed` barrier
+* Add geopkg as additional data source
 
 # location-data v0.1.1
 

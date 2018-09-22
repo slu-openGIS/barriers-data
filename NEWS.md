@@ -1,8 +1,8 @@
 # barriers-data v0.2.0
 
 * Add column `Redev` identifying barriers that are installed in ways that impede *all* traffic during redevelopment projects
-* Update status of barrier 234
 * Add barriers 365 and 366, newly installed in The Grove
+* Add geopkg as additional data source
 
 # barriers-data v0.1.3
 
