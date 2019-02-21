@@ -1,11 +1,11 @@
 # STL_BARRIERS_All
 
 ### Metadata
-  * **Title -** St. Louis Barrier Locations, April 2017
+  * **Title -** St. Louis Barrier Locations
   * **Date of Original Publication -** 06 Apr 2018
-  * **Date of Last Update -** 21 Sept 2018
-  * **Edition -** v0.2.0
-  * **Abstract -** Point locations for all known current and historic street closures in `.csv`, `.shp`, and `.geoJSON` formats.
+  * **Date of Last Update -** 21 Feb 2019
+  * **Edition -** v0.2.1
+  * **Abstract -** Point locations for all known current and historic street closures in `.csv`, `.shp`, `.gpkg` and `.geoJSON` formats.
   * **Maintenance Frequency -** Frequent
   * **Keywords -** Missouri, St. Louis, Street Closures, Barriers, Urban Planning
   * **Constraints Use -** Open Data Commons Attribution License (ODC-By) v1.0

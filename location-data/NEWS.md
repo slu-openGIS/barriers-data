@@ -1,3 +1,7 @@
+# location-data v0.2.1
+
+* Ensure the new `Redev` column appears in all output
+
 # location-data v0.2.0
 
 * Add new `Redev` column

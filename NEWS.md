@@ -1,3 +1,7 @@
+# barriers-data v0.2.1
+
+* Ensure the new `Redev` column appears in all output
+
 # barriers-data v0.2.0
 
 * Add column `Redev` identifying barriers that are installed in ways that impede *all* traffic during redevelopment projects
