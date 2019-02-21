@@ -1,3 +1,7 @@
+# barriers-data v0.2.2
+
+* Combine the `Status` and `Redev` columns into a single `Status` column
+
 # barriers-data v0.2.1
 
 * Ensure the new `Redev` column appears in all output

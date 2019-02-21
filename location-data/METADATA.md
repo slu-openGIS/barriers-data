@@ -4,7 +4,7 @@
   * **Title -** St. Louis Barrier Locations
   * **Date of Original Publication -** 06 Apr 2018
   * **Date of Last Update -** 21 Feb 2019
-  * **Edition -** v0.2.1
+  * **Edition -** v0.2.2
   * **Abstract -** Point locations for all known current and historic street closures in `.csv`, `.shp`, `.gpkg` and `.geoJSON` formats.
   * **Maintenance Frequency -** Frequent
   * **Keywords -** Missouri, St. Louis, Street Closures, Barriers, Urban Planning
@@ -34,6 +34,5 @@
   * `BarrierCk2` - date information for supplemental confirmation
   * `CheckType2` - method for supplemental confirmation
   * `Descrip` - human readable description of the closure
-  * `Redev` - is barrier part of a redevelopment project where street scape fundamentally changes?
   * `long` - `.csv` *only* - longitude of barrier location
   * `lat` - `.csv` *only* - latitude of barrier location
